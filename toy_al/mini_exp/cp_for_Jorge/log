@@ -1,0 +1,3209 @@
+sample_global_test has shape (200, 3)
+val_global_test has shape (200, 4)
+sample_train has shape (1000, 3)
+val_train has shape (1000, 4)
+sample_test has shape (200, 3)
+val_test has shape (200, 4)
+X_train: torch.Size([1000, 4]), y_train: torch.Size([1000, 3]), X_test: torch.Size([200, 4]), y_test: torch.Size([200, 3]), X_global_test: torch.Size([200, 4]), y_global_test: torch.Size([200, 3])
+len of train_loader = 8
+Average loss:      0.27262217
+Average test loss:      0.25272182
+len of train_loader = 8
+Average loss:      0.24223450
+Average test loss:      0.22974938
+len of train_loader = 8
+Average loss:      0.22034875
+Average test loss:      0.20511201
+len of train_loader = 8
+Average loss:      0.19998209
+Average test loss:      0.18612728
+len of train_loader = 8
+Average loss:      0.18394053
+Average test loss:      0.17218646
+len of train_loader = 8
+Average loss:      0.17511718
+Average test loss:      0.16695246
+len of train_loader = 8
+Average loss:      0.16910142
+Average test loss:      0.14870207
+len of train_loader = 8
+Average loss:      0.15637273
+Average test loss:      0.13987572
+len of train_loader = 8
+Average loss:      0.13421911
+Average test loss:      0.12737823
+len of train_loader = 8
+Average loss:      0.12107322
+Average test loss:      0.12004872
+len of train_loader = 8
+Average loss:      0.10932580
+Average test loss:      0.10290907
+len of train_loader = 8
+Average loss:      0.09771369
+Average test loss:      0.09254599
+len of train_loader = 8
+Average loss:      0.08689044
+Average test loss:      0.08733862
+len of train_loader = 8
+Average loss:      0.07753851
+Average test loss:      0.07615997
+len of train_loader = 8
+Average loss:      0.06905607
+Average test loss:      0.06885213
+len of train_loader = 8
+Average loss:      0.06192125
+Average test loss:      0.06427734
+len of train_loader = 8
+Average loss:      0.05632194
+Average test loss:      0.05846761
+len of train_loader = 8
+Average loss:      0.05201180
+Average test loss:      0.05254126
+len of train_loader = 8
+Average loss:      0.04881918
+Average test loss:      0.05113123
+len of train_loader = 8
+Average loss:      0.04616051
+Average test loss:      0.04964238
+len of train_loader = 8
+Average loss:      0.04408180
+Average test loss:      0.04758861
+len of train_loader = 8
+Average loss:      0.04216116
+Average test loss:      0.04666360
+len of train_loader = 8
+Average loss:      0.04073320
+Average test loss:      0.04303692
+len of train_loader = 8
+Average loss:      0.03911303
+Average test loss:      0.04193500
+len of train_loader = 8
+Average loss:      0.03858672
+Average test loss:      0.04116472
+len of train_loader = 8
+Average loss:      0.03769244
+Average test loss:      0.04096841
+len of train_loader = 8
+Average loss:      0.03750748
+Average test loss:      0.03928944
+len of train_loader = 8
+Average loss:      0.03619730
+Average test loss:      0.03886838
+len of train_loader = 8
+Average loss:      0.03558167
+Average test loss:      0.03786751
+len of train_loader = 8
+Average loss:      0.03523443
+Average test loss:      0.03684879
+len of train_loader = 8
+Average loss:      0.03437853
+Average test loss:      0.03595166
+len of train_loader = 8
+Average loss:      0.03381708
+Average test loss:      0.03555256
+len of train_loader = 8
+Average loss:      0.03330764
+Average test loss:      0.03401197
+len of train_loader = 8
+Average loss:      0.03272919
+Average test loss:      0.03624173
+len of train_loader = 8
+Average loss:      0.03245265
+Average test loss:      0.03385925
+len of train_loader = 8
+Average loss:      0.03200406
+Average test loss:      0.03418180
+len of train_loader = 8
+Average loss:      0.03171832
+Average test loss:      0.03249026
+len of train_loader = 8
+Average loss:      0.03222572
+Average test loss:      0.03493375
+len of train_loader = 8
+Average loss:      0.03173568
+Average test loss:      0.03464964
+len of train_loader = 8
+Average loss:      0.03236936
+Average test loss:      0.03437179
+len of train_loader = 8
+Average loss:      0.03182248
+Average test loss:      0.03243328
+len of train_loader = 8
+Average loss:      0.03125857
+Average test loss:      0.03283250
+len of train_loader = 8
+Average loss:      0.03093178
+Average test loss:      0.03199709
+len of train_loader = 8
+Average loss:      0.03040392
+Average test loss:      0.03269789
+len of train_loader = 8
+Average loss:      0.03065069
+Average test loss:      0.03408361
+len of train_loader = 8
+Average loss:      0.03084645
+Average test loss:      0.03686329
+len of train_loader = 8
+Average loss:      0.03063148
+Average test loss:      0.03122547
+len of train_loader = 8
+Average loss:      0.02980672
+Average test loss:      0.03043762
+len of train_loader = 8
+Average loss:      0.02921236
+Average test loss:      0.03201628
+len of train_loader = 8
+Average loss:      0.02908290
+Average test loss:      0.02888238
+len of train_loader = 8
+Average loss:      0.02889992
+Average test loss:      0.03107403
+len of train_loader = 8
+Average loss:      0.02868149
+Average test loss:      0.03029946
+len of train_loader = 8
+Average loss:      0.02836657
+Average test loss:      0.02977720
+len of train_loader = 8
+Average loss:      0.02809210
+Average test loss:      0.03044557
+len of train_loader = 8
+Average loss:      0.02768771
+Average test loss:      0.02997871
+len of train_loader = 8
+Average loss:      0.02755705
+Average test loss:      0.02974165
+len of train_loader = 8
+Average loss:      0.02725447
+Average test loss:      0.03051302
+len of train_loader = 8
+Average loss:      0.02709460
+Average test loss:      0.02902625
+len of train_loader = 8
+Average loss:      0.02694919
+Average test loss:      0.02850478
+len of train_loader = 8
+Average loss:      0.02676795
+Average test loss:      0.02845807
+len of train_loader = 8
+Average loss:      0.02636509
+Average test loss:      0.02790544
+len of train_loader = 8
+Average loss:      0.02643203
+Average test loss:      0.02786389
+len of train_loader = 8
+Average loss:      0.02617563
+Average test loss:      0.02791394
+len of train_loader = 8
+Average loss:      0.02605541
+Average test loss:      0.02791950
+len of train_loader = 8
+Average loss:      0.02585290
+Average test loss:      0.02805184
+len of train_loader = 8
+Average loss:      0.02579414
+Average test loss:      0.02761889
+len of train_loader = 8
+Average loss:      0.02566259
+Average test loss:      0.02748401
+len of train_loader = 8
+Average loss:      0.02553738
+Average test loss:      0.02721187
+len of train_loader = 8
+Average loss:      0.02533824
+Average test loss:      0.02637134
+len of train_loader = 8
+Average loss:      0.02530331
+Average test loss:      0.02651124
+len of train_loader = 8
+Average loss:      0.02487863
+Average test loss:      0.02661866
+len of train_loader = 8
+Average loss:      0.02486090
+Average test loss:      0.02776776
+len of train_loader = 8
+Average loss:      0.02470689
+Average test loss:      0.02504270
+len of train_loader = 8
+Average loss:      0.02450431
+Average test loss:      0.02679747
+len of train_loader = 8
+Average loss:      0.02464762
+Average test loss:      0.02680733
+len of train_loader = 8
+Average loss:      0.02450839
+Average test loss:      0.02651361
+len of train_loader = 8
+Average loss:      0.02432722
+Average test loss:      0.02575867
+len of train_loader = 8
+Average loss:      0.02392728
+Average test loss:      0.02645878
+len of train_loader = 8
+Average loss:      0.02393017
+Average test loss:      0.02642912
+len of train_loader = 8
+Average loss:      0.02371686
+Average test loss:      0.02532880
+len of train_loader = 8
+Average loss:      0.02364269
+Average test loss:      0.02600133
+len of train_loader = 8
+Average loss:      0.02352943
+Average test loss:      0.02495793
+len of train_loader = 8
+Average loss:      0.02330877
+Average test loss:      0.02547095
+len of train_loader = 8
+Average loss:      0.02308834
+Average test loss:      0.02548344
+len of train_loader = 8
+Average loss:      0.02291722
+Average test loss:      0.02493883
+len of train_loader = 8
+Average loss:      0.02271833
+Average test loss:      0.02521514
+len of train_loader = 8
+Average loss:      0.02317182
+Average test loss:      0.02459554
+len of train_loader = 8
+Average loss:      0.02320768
+Average test loss:      0.02622184
+len of train_loader = 8
+Average loss:      0.02278575
+Average test loss:      0.02471228
+len of train_loader = 8
+Average loss:      0.02235946
+Average test loss:      0.02457988
+len of train_loader = 8
+Average loss:      0.02233157
+Average test loss:      0.02318430
+len of train_loader = 8
+Average loss:      0.02179936
+Average test loss:      0.02359818
+len of train_loader = 8
+Average loss:      0.02162420
+Average test loss:      0.02406157
+len of train_loader = 8
+Average loss:      0.02140661
+Average test loss:      0.02389010
+len of train_loader = 8
+Average loss:      0.02136512
+Average test loss:      0.02334257
+len of train_loader = 8
+Average loss:      0.02099598
+Average test loss:      0.02345854
+len of train_loader = 8
+Average loss:      0.02074802
+Average test loss:      0.02534398
+len of train_loader = 8
+Average loss:      0.02143693
+Average test loss:      0.02519160
+len of train_loader = 8
+Average loss:      0.02151977
+Average test loss:      0.02463816
+len of train_loader = 8
+Average loss:      0.02109520
+Average test loss:      0.02480843
+len of train_loader = 8
+Average loss:      0.02111011
+Average test loss:      0.02307241
+len of train_loader = 8
+Average loss:      0.02055017
+Average test loss:      0.02479173
+len of train_loader = 8
+Average loss:      0.02019404
+Average test loss:      0.02290344
+len of train_loader = 8
+Average loss:      0.01989117
+Average test loss:      0.02413394
+len of train_loader = 8
+Average loss:      0.01947058
+Average test loss:      0.02373016
+len of train_loader = 8
+Average loss:      0.01936746
+Average test loss:      0.02222047
+len of train_loader = 8
+Average loss:      0.01922419
+Average test loss:      0.02375465
+len of train_loader = 8
+Average loss:      0.01844214
+Average test loss:      0.02094387
+len of train_loader = 8
+Average loss:      0.01731768
+Average test loss:      0.02132360
+len of train_loader = 8
+Average loss:      0.01687022
+Average test loss:      0.01999431
+len of train_loader = 8
+Average loss:      0.01631226
+Average test loss:      0.01912160
+len of train_loader = 8
+Average loss:      0.01586365
+Average test loss:      0.01951924
+len of train_loader = 8
+Average loss:      0.01543881
+Average test loss:      0.01968059
+len of train_loader = 8
+Average loss:      0.01528179
+Average test loss:      0.01820766
+len of train_loader = 8
+Average loss:      0.01538378
+Average test loss:      0.01731197
+len of train_loader = 8
+Average loss:      0.01542268
+Average test loss:      0.01855104
+len of train_loader = 8
+Average loss:      0.01513787
+Average test loss:      0.01832713
+len of train_loader = 8
+Average loss:      0.01477483
+Average test loss:      0.01819501
+len of train_loader = 8
+Average loss:      0.01438189
+Average test loss:      0.01858980
+len of train_loader = 8
+Average loss:      0.01440161
+Average test loss:      0.01831007
+len of train_loader = 8
+Average loss:      0.01440003
+Average test loss:      0.01846682
+len of train_loader = 8
+Average loss:      0.01384483
+Average test loss:      0.01780659
+len of train_loader = 8
+Average loss:      0.01371327
+Average test loss:      0.01650873
+len of train_loader = 8
+Average loss:      0.01359632
+Average test loss:      0.01804587
+len of train_loader = 8
+Average loss:      0.01332241
+Average test loss:      0.01743084
+len of train_loader = 8
+Average loss:      0.01331275
+Average test loss:      0.01672473
+len of train_loader = 8
+Average loss:      0.01320197
+Average test loss:      0.01667432
+len of train_loader = 8
+Average loss:      0.01351949
+Average test loss:      0.01608161
+len of train_loader = 8
+Average loss:      0.01349203
+Average test loss:      0.01687386
+len of train_loader = 8
+Average loss:      0.01381543
+Average test loss:      0.01837608
+len of train_loader = 8
+Average loss:      0.01360166
+Average test loss:      0.01805384
+len of train_loader = 8
+Average loss:      0.01338726
+Average test loss:      0.01656417
+len of train_loader = 8
+Average loss:      0.01340944
+Average test loss:      0.01786272
+len of train_loader = 8
+Average loss:      0.01343752
+Average test loss:      0.01484229
+len of train_loader = 8
+Average loss:      0.01263863
+Average test loss:      0.01539315
+len of train_loader = 8
+Average loss:      0.01234582
+Average test loss:      0.01687249
+len of train_loader = 8
+Average loss:      0.01265241
+Average test loss:      0.01648237
+len of train_loader = 8
+Average loss:      0.01281270
+Average test loss:      0.01539373
+len of train_loader = 8
+Average loss:      0.01245484
+Average test loss:      0.01471158
+len of train_loader = 8
+Average loss:      0.01207060
+Average test loss:      0.01530863
+len of train_loader = 8
+Average loss:      0.01190458
+Average test loss:      0.01644322
+len of train_loader = 8
+Average loss:      0.01190158
+Average test loss:      0.01578430
+len of train_loader = 8
+Average loss:      0.01169615
+Average test loss:      0.01539568
+len of train_loader = 8
+Average loss:      0.01145574
+Average test loss:      0.01470905
+len of train_loader = 8
+Average loss:      0.01150132
+Average test loss:      0.01521759
+len of train_loader = 8
+Average loss:      0.01126687
+Average test loss:      0.01393852
+len of train_loader = 8
+Average loss:      0.01121338
+Average test loss:      0.01766741
+len of train_loader = 8
+Average loss:      0.01143349
+Average test loss:      0.01519073
+len of train_loader = 8
+Average loss:      0.01139530
+Average test loss:      0.01405017
+len of train_loader = 8
+Average loss:      0.01133132
+Average test loss:      0.01488653
+len of train_loader = 8
+Average loss:      0.01101402
+Average test loss:      0.01490422
+len of train_loader = 8
+Average loss:      0.01096583
+Average test loss:      0.01380368
+len of train_loader = 8
+Average loss:      0.01071744
+Average test loss:      0.01437517
+len of train_loader = 8
+Average loss:      0.01069913
+Average test loss:      0.01370631
+len of train_loader = 8
+Average loss:      0.01039827
+Average test loss:      0.01387272
+len of train_loader = 8
+Average loss:      0.01028711
+Average test loss:      0.01393087
+len of train_loader = 8
+Average loss:      0.01031679
+Average test loss:      0.01339616
+len of train_loader = 8
+Average loss:      0.01011682
+Average test loss:      0.01321526
+len of train_loader = 8
+Average loss:      0.01019391
+Average test loss:      0.01326810
+len of train_loader = 8
+Average loss:      0.01026080
+Average test loss:      0.01347056
+len of train_loader = 8
+Average loss:      0.00998873
+Average test loss:      0.01263234
+len of train_loader = 8
+Average loss:      0.01012534
+Average test loss:      0.01301774
+len of train_loader = 8
+Average loss:      0.00989183
+Average test loss:      0.01332689
+len of train_loader = 8
+Average loss:      0.01013052
+Average test loss:      0.01192366
+len of train_loader = 8
+Average loss:      0.00983471
+Average test loss:      0.01296353
+len of train_loader = 8
+Average loss:      0.00982881
+Average test loss:      0.01286537
+len of train_loader = 8
+Average loss:      0.00983736
+Average test loss:      0.01220018
+len of train_loader = 8
+Average loss:      0.00953972
+Average test loss:      0.01256542
+len of train_loader = 8
+Average loss:      0.01018673
+Average test loss:      0.01277003
+len of train_loader = 8
+Average loss:      0.01021691
+Average test loss:      0.01275382
+len of train_loader = 8
+Average loss:      0.00966177
+Average test loss:      0.01274664
+len of train_loader = 8
+Average loss:      0.00964330
+Average test loss:      0.01324349
+len of train_loader = 8
+Average loss:      0.00933895
+Average test loss:      0.01157419
+len of train_loader = 8
+Average loss:      0.00944558
+Average test loss:      0.01131302
+len of train_loader = 8
+Average loss:      0.00910345
+Average test loss:      0.01140747
+len of train_loader = 8
+Average loss:      0.00911408
+Average test loss:      0.01253567
+len of train_loader = 8
+Average loss:      0.00916411
+Average test loss:      0.01153773
+len of train_loader = 8
+Average loss:      0.00929157
+Average test loss:      0.01200430
+len of train_loader = 8
+Average loss:      0.00950848
+Average test loss:      0.01233796
+len of train_loader = 8
+Average loss:      0.00936209
+Average test loss:      0.01208577
+len of train_loader = 8
+Average loss:      0.00927029
+Average test loss:      0.01185154
+len of train_loader = 8
+Average loss:      0.00875122
+Average test loss:      0.01050755
+len of train_loader = 8
+Average loss:      0.00871978
+Average test loss:      0.01249535
+len of train_loader = 8
+Average loss:      0.00911323
+Average test loss:      0.01163191
+len of train_loader = 8
+Average loss:      0.00950899
+Average test loss:      0.01382408
+len of train_loader = 8
+Average loss:      0.00911538
+Average test loss:      0.01143000
+len of train_loader = 8
+Average loss:      0.00870154
+Average test loss:      0.01150570
+len of train_loader = 8
+Average loss:      0.00875683
+Average test loss:      0.01017404
+len of train_loader = 8
+Average loss:      0.00905735
+Average test loss:      0.01179326
+len of train_loader = 8
+Average loss:      0.01014490
+Average test loss:      0.01295177
+len of train_loader = 8
+Average loss:      0.00966660
+Average test loss:      0.01172475
+len of train_loader = 8
+Average loss:      0.00932077
+Average test loss:      0.01091988
+len of train_loader = 8
+Average loss:      0.00890448
+Average test loss:      0.01173465
+len of train_loader = 8
+Average loss:      0.00892345
+Average test loss:      0.01076123
+len of train_loader = 8
+Average loss:      0.00872139
+Average test loss:      0.01046709
+len of train_loader = 8
+Average loss:      0.00850829
+Average test loss:      0.01132436
+len of train_loader = 8
+Average loss:      0.00863439
+Average test loss:      0.01082244
+len of train_loader = 8
+Average loss:      0.00839128
+Average test loss:      0.01162464
+len of train_loader = 8
+Average loss:      0.00845785
+Average test loss:      0.01117399
+len of train_loader = 8
+Average loss:      0.00842134
+Average test loss:      0.01046180
+len of train_loader = 8
+Average loss:      0.00840029
+Average test loss:      0.01040612
+len of train_loader = 8
+Average loss:      0.00852004
+Average test loss:      0.01048801
+len of train_loader = 8
+Average loss:      0.00813753
+Average test loss:      0.01034150
+len of train_loader = 8
+Average loss:      0.00790802
+Average test loss:      0.01021244
+len of train_loader = 8
+Average loss:      0.00822180
+Average test loss:      0.01172407
+len of train_loader = 8
+Average loss:      0.01155919
+Average test loss:      0.04777764
+len of train_loader = 8
+Average loss:      0.02104629
+Average test loss:      0.03708090
+len of train_loader = 8
+Average loss:      0.01866372
+Average test loss:      0.01538730
+len of train_loader = 8
+Average loss:      0.01287303
+Average test loss:      0.01546529
+len of train_loader = 8
+Average loss:      0.01129399
+Average test loss:      0.01251060
+len of train_loader = 8
+Average loss:      0.01039153
+Average test loss:      0.01241122
+len of train_loader = 8
+Average loss:      0.00992306
+Average test loss:      0.01277791
+len of train_loader = 8
+Average loss:      0.00952816
+Average test loss:      0.01170281
+len of train_loader = 8
+Average loss:      0.00914009
+Average test loss:      0.01105619
+len of train_loader = 8
+Average loss:      0.00896517
+Average test loss:      0.01031732
+len of train_loader = 8
+Average loss:      0.00884839
+Average test loss:      0.01020959
+len of train_loader = 8
+Average loss:      0.00852467
+Average test loss:      0.01090523
+len of train_loader = 8
+Average loss:      0.00847187
+Average test loss:      0.01008849
+len of train_loader = 8
+Average loss:      0.00833798
+Average test loss:      0.01017537
+len of train_loader = 8
+Average loss:      0.00820317
+Average test loss:      0.00995655
+len of train_loader = 8
+Average loss:      0.00813867
+Average test loss:      0.00943561
+len of train_loader = 8
+Average loss:      0.00835286
+Average test loss:      0.01092551
+len of train_loader = 8
+Average loss:      0.00833678
+Average test loss:      0.01046299
+len of train_loader = 8
+Average loss:      0.00804436
+Average test loss:      0.00962226
+len of train_loader = 8
+Average loss:      0.00875483
+Average test loss:      0.01015639
+len of train_loader = 8
+Average loss:      0.00835712
+Average test loss:      0.01171835
+len of train_loader = 8
+Average loss:      0.00815865
+Average test loss:      0.01036133
+len of train_loader = 8
+Average loss:      0.00819668
+Average test loss:      0.01109868
+len of train_loader = 8
+Average loss:      0.00820489
+Average test loss:      0.01065798
+len of train_loader = 8
+Average loss:      0.00790716
+Average test loss:      0.00975134
+len of train_loader = 8
+Average loss:      0.00790038
+Average test loss:      0.00917580
+len of train_loader = 8
+Average loss:      0.00775157
+Average test loss:      0.01030959
+len of train_loader = 8
+Average loss:      0.00785309
+Average test loss:      0.00892079
+len of train_loader = 8
+Average loss:      0.00778618
+Average test loss:      0.00922837
+len of train_loader = 8
+Average loss:      0.00755719
+Average test loss:      0.00967585
+len of train_loader = 8
+Average loss:      0.00760231
+Average test loss:      0.00918918
+len of train_loader = 8
+Average loss:      0.00766502
+Average test loss:      0.00906526
+len of train_loader = 8
+Average loss:      0.00767867
+Average test loss:      0.00882184
+len of train_loader = 8
+Average loss:      0.00761918
+Average test loss:      0.00956819
+len of train_loader = 8
+Average loss:      0.00719981
+Average test loss:      0.00836766
+len of train_loader = 8
+Average loss:      0.00719805
+Average test loss:      0.00791259
+len of train_loader = 8
+Average loss:      0.00749063
+Average test loss:      0.00920453
+len of train_loader = 8
+Average loss:      0.00744221
+Average test loss:      0.00854968
+len of train_loader = 8
+Average loss:      0.00765555
+Average test loss:      0.01172372
+len of train_loader = 8
+Average loss:      0.00822344
+Average test loss:      0.01048487
+len of train_loader = 8
+Average loss:      0.00817979
+Average test loss:      0.01003573
+len of train_loader = 8
+Average loss:      0.00773333
+Average test loss:      0.00966305
+len of train_loader = 8
+Average loss:      0.00744024
+Average test loss:      0.00971219
+len of train_loader = 8
+Average loss:      0.00727705
+Average test loss:      0.00913340
+len of train_loader = 8
+Average loss:      0.00712033
+Average test loss:      0.00898365
+len of train_loader = 8
+Average loss:      0.00719503
+Average test loss:      0.00870666
+len of train_loader = 8
+Average loss:      0.00710714
+Average test loss:      0.00921877
+len of train_loader = 8
+Average loss:      0.00721190
+Average test loss:      0.00894997
+len of train_loader = 8
+Average loss:      0.00719303
+Average test loss:      0.00903397
+len of train_loader = 8
+Average loss:      0.00689450
+Average test loss:      0.00788511
+len of train_loader = 8
+Average loss:      0.00685341
+Average test loss:      0.00873879
+len of train_loader = 8
+Average loss:      0.00695065
+Average test loss:      0.00962761
+len of train_loader = 8
+Average loss:      0.00694017
+Average test loss:      0.00876587
+len of train_loader = 8
+Average loss:      0.00705393
+Average test loss:      0.00932000
+len of train_loader = 8
+Average loss:      0.00698790
+Average test loss:      0.00851373
+len of train_loader = 8
+Average loss:      0.00774329
+Average test loss:      0.00974718
+len of train_loader = 8
+Average loss:      0.00778400
+Average test loss:      0.01095780
+len of train_loader = 8
+Average loss:      0.00779715
+Average test loss:      0.01087010
+len of train_loader = 8
+Average loss:      0.00767228
+Average test loss:      0.01079948
+len of train_loader = 8
+Average loss:      0.00742578
+Average test loss:      0.00967626
+len of train_loader = 8
+Average loss:      0.00738081
+Average test loss:      0.00863306
+len of train_loader = 8
+Average loss:      0.00705166
+Average test loss:      0.00955486
+len of train_loader = 8
+Average loss:      0.00714112
+Average test loss:      0.01095038
+len of train_loader = 8
+Average loss:      0.00731195
+Average test loss:      0.00933458
+len of train_loader = 8
+Average loss:      0.00699580
+Average test loss:      0.00930481
+len of train_loader = 8
+Average loss:      0.00695053
+Average test loss:      0.00928868
+len of train_loader = 8
+Average loss:      0.00687082
+Average test loss:      0.00976157
+len of train_loader = 8
+Average loss:      0.00689138
+Average test loss:      0.00943291
+len of train_loader = 8
+Average loss:      0.00687226
+Average test loss:      0.00842312
+len of train_loader = 8
+Average loss:      0.00698170
+Average test loss:      0.00926309
+len of train_loader = 8
+Average loss:      0.00673843
+Average test loss:      0.00914708
+len of train_loader = 8
+Average loss:      0.00684181
+Average test loss:      0.00947695
+len of train_loader = 8
+Average loss:      0.00726805
+Average test loss:      0.00909862
+len of train_loader = 8
+Average loss:      0.00741163
+Average test loss:      0.01013789
+len of train_loader = 8
+Average loss:      0.00757917
+Average test loss:      0.01131798
+len of train_loader = 8
+Average loss:      0.00765861
+Average test loss:      0.00970561
+len of train_loader = 8
+Average loss:      0.00722935
+Average test loss:      0.00876980
+len of train_loader = 8
+Average loss:      0.00694509
+Average test loss:      0.00881665
+len of train_loader = 8
+Average loss:      0.00679431
+Average test loss:      0.00841288
+len of train_loader = 8
+Average loss:      0.00669934
+Average test loss:      0.00798003
+len of train_loader = 8
+Average loss:      0.00675274
+Average test loss:      0.00875451
+len of train_loader = 8
+Average loss:      0.00646625
+Average test loss:      0.00872295
+len of train_loader = 8
+Average loss:      0.00799137
+Average test loss:      0.01099139
+len of train_loader = 8
+Average loss:      0.00787725
+Average test loss:      0.00980020
+len of train_loader = 8
+Average loss:      0.00711570
+Average test loss:      0.01032118
+len of train_loader = 8
+Average loss:      0.00719042
+Average test loss:      0.00883709
+len of train_loader = 8
+Average loss:      0.00702450
+Average test loss:      0.00890347
+len of train_loader = 8
+Average loss:      0.00682821
+Average test loss:      0.00914766
+len of train_loader = 8
+Average loss:      0.00651824
+Average test loss:      0.00824588
+len of train_loader = 8
+Average loss:      0.00661403
+Average test loss:      0.01095991
+len of train_loader = 8
+Average loss:      0.00682489
+Average test loss:      0.00971245
+len of train_loader = 8
+Average loss:      0.00668248
+Average test loss:      0.00930582
+len of train_loader = 8
+Average loss:      0.00652391
+Average test loss:      0.00853646
+len of train_loader = 8
+Average loss:      0.00633477
+Average test loss:      0.00774264
+len of train_loader = 8
+Average loss:      0.00630707
+Average test loss:      0.00731101
+len of train_loader = 8
+Average loss:      0.00626632
+Average test loss:      0.00900974
+len of train_loader = 8
+Average loss:      0.00687461
+Average test loss:      0.00947651
+len of train_loader = 8
+Average loss:      0.00649052
+Average test loss:      0.00779446
+len of train_loader = 8
+Average loss:      0.00629356
+Average test loss:      0.00875315
+len of train_loader = 8
+Average loss:      0.00618812
+Average test loss:      0.00836145
+len of train_loader = 8
+Average loss:      0.00638669
+Average test loss:      0.00971454
+len of train_loader = 8
+Average loss:      0.00703476
+Average test loss:      0.01306713
+len of train_loader = 8
+Average loss:      0.00691923
+Average test loss:      0.01027644
+len of train_loader = 8
+Average loss:      0.00659032
+Average test loss:      0.01115761
+len of train_loader = 8
+Average loss:      0.00628677
+Average test loss:      0.01014042
+len of train_loader = 8
+Average loss:      0.00640666
+Average test loss:      0.01170967
+len of train_loader = 8
+Average loss:      0.00649670
+Average test loss:      0.01014312
+len of train_loader = 8
+Average loss:      0.00660338
+Average test loss:      0.00937063
+len of train_loader = 8
+Average loss:      0.00632952
+Average test loss:      0.00850986
+len of train_loader = 8
+Average loss:      0.00615228
+Average test loss:      0.00835982
+len of train_loader = 8
+Average loss:      0.00596715
+Average test loss:      0.00780552
+len of train_loader = 8
+Average loss:      0.00611911
+Average test loss:      0.00813139
+len of train_loader = 8
+Average loss:      0.00594481
+Average test loss:      0.00770400
+len of train_loader = 8
+Average loss:      0.00634913
+Average test loss:      0.00776811
+len of train_loader = 8
+Average loss:      0.00608125
+Average test loss:      0.00790921
+len of train_loader = 8
+Average loss:      0.00624166
+Average test loss:      0.00800800
+len of train_loader = 8
+Average loss:      0.00666240
+Average test loss:      0.00942666
+len of train_loader = 8
+Average loss:      0.00688592
+Average test loss:      0.01080533
+len of train_loader = 8
+Average loss:      0.00659749
+Average test loss:      0.01250675
+len of train_loader = 8
+Average loss:      0.00654997
+Average test loss:      0.00987387
+len of train_loader = 8
+Average loss:      0.00646706
+Average test loss:      0.00911181
+len of train_loader = 8
+Average loss:      0.00605625
+Average test loss:      0.00828821
+len of train_loader = 8
+Average loss:      0.00607518
+Average test loss:      0.00839136
+len of train_loader = 8
+Average loss:      0.00606691
+Average test loss:      0.00762626
+len of train_loader = 8
+Average loss:      0.00617656
+Average test loss:      0.00813129
+len of train_loader = 8
+Average loss:      0.00607659
+Average test loss:      0.00816408
+len of train_loader = 8
+Average loss:      0.00596959
+Average test loss:      0.00805585
+len of train_loader = 8
+Average loss:      0.00596715
+Average test loss:      0.00786532
+len of train_loader = 8
+Average loss:      0.00624434
+Average test loss:      0.00871617
+len of train_loader = 8
+Average loss:      0.00641689
+Average test loss:      0.00826603
+len of train_loader = 8
+Average loss:      0.00604597
+Average test loss:      0.00816051
+len of train_loader = 8
+Average loss:      0.00611484
+Average test loss:      0.00733943
+len of train_loader = 8
+Average loss:      0.00601509
+Average test loss:      0.00876276
+len of train_loader = 8
+Average loss:      0.00641506
+Average test loss:      0.00815649
+len of train_loader = 8
+Average loss:      0.00611807
+Average test loss:      0.00884729
+len of train_loader = 8
+Average loss:      0.00606066
+Average test loss:      0.00822400
+len of train_loader = 8
+Average loss:      0.00649446
+Average test loss:      0.00750390
+len of train_loader = 8
+Average loss:      0.00654214
+Average test loss:      0.00892575
+len of train_loader = 8
+Average loss:      0.00667572
+Average test loss:      0.00841496
+len of train_loader = 8
+Average loss:      0.00642702
+Average test loss:      0.00785264
+len of train_loader = 8
+Average loss:      0.00597621
+Average test loss:      0.00851375
+len of train_loader = 8
+Average loss:      0.00584896
+Average test loss:      0.00771559
+len of train_loader = 8
+Average loss:      0.00590772
+Average test loss:      0.00718681
+len of train_loader = 8
+Average loss:      0.00612297
+Average test loss:      0.00807174
+len of train_loader = 8
+Average loss:      0.00600237
+Average test loss:      0.00799899
+len of train_loader = 8
+Average loss:      0.00800543
+Average test loss:      0.00978728
+len of train_loader = 8
+Average loss:      0.00803805
+Average test loss:      0.00925823
+len of train_loader = 8
+Average loss:      0.00691125
+Average test loss:      0.00932614
+len of train_loader = 8
+Average loss:      0.00657551
+Average test loss:      0.00800461
+len of train_loader = 8
+Average loss:      0.00601598
+Average test loss:      0.00825430
+len of train_loader = 8
+Average loss:      0.00596427
+Average test loss:      0.00926694
+len of train_loader = 8
+Average loss:      0.00591650
+Average test loss:      0.00768744
+len of train_loader = 8
+Average loss:      0.00603071
+Average test loss:      0.00755045
+len of train_loader = 8
+Average loss:      0.00581588
+Average test loss:      0.00806461
+len of train_loader = 8
+Average loss:      0.00583148
+Average test loss:      0.00835450
+len of train_loader = 8
+Average loss:      0.00576443
+Average test loss:      0.00801394
+len of train_loader = 8
+Average loss:      0.00605534
+Average test loss:      0.01120200
+len of train_loader = 8
+Average loss:      0.00669251
+Average test loss:      0.00982699
+len of train_loader = 8
+Average loss:      0.00643753
+Average test loss:      0.00941474
+len of train_loader = 8
+Average loss:      0.00642970
+Average test loss:      0.01016764
+len of train_loader = 8
+Average loss:      0.00621417
+Average test loss:      0.01051002
+len of train_loader = 8
+Average loss:      0.00602321
+Average test loss:      0.00902955
+len of train_loader = 8
+Average loss:      0.00585043
+Average test loss:      0.01003182
+len of train_loader = 8
+Average loss:      0.00582972
+Average test loss:      0.00925933
+len of train_loader = 8
+Average loss:      0.00591778
+Average test loss:      0.00835001
+len of train_loader = 8
+Average loss:      0.00561489
+Average test loss:      0.00830514
+len of train_loader = 8
+Average loss:      0.00567342
+Average test loss:      0.00904255
+len of train_loader = 8
+Average loss:      0.00567720
+Average test loss:      0.00831305
+len of train_loader = 8
+Average loss:      0.00552402
+Average test loss:      0.00880769
+len of train_loader = 8
+Average loss:      0.00555537
+Average test loss:      0.00755569
+len of train_loader = 8
+Average loss:      0.00549513
+Average test loss:      0.00740669
+len of train_loader = 8
+Average loss:      0.00542346
+Average test loss:      0.00778584
+len of train_loader = 8
+Average loss:      0.00550305
+Average test loss:      0.00767445
+len of train_loader = 8
+Average loss:      0.00560846
+Average test loss:      0.00819631
+len of train_loader = 8
+Average loss:      0.00602275
+Average test loss:      0.00865989
+len of train_loader = 8
+Average loss:      0.00577512
+Average test loss:      0.00786398
+len of train_loader = 8
+Average loss:      0.00585457
+Average test loss:      0.00820650
+len of train_loader = 8
+Average loss:      0.00591078
+Average test loss:      0.00939068
+len of train_loader = 8
+Average loss:      0.00613766
+Average test loss:      0.00927287
+len of train_loader = 8
+Average loss:      0.00596744
+Average test loss:      0.00992348
+len of train_loader = 8
+Average loss:      0.00628197
+Average test loss:      0.00936963
+len of train_loader = 8
+Average loss:      0.00654227
+Average test loss:      0.01001943
+len of train_loader = 8
+Average loss:      0.00616301
+Average test loss:      0.00918807
+len of train_loader = 8
+Average loss:      0.00618403
+Average test loss:      0.01045186
+len of train_loader = 8
+Average loss:      0.00590051
+Average test loss:      0.00834773
+len of train_loader = 8
+Average loss:      0.00565862
+Average test loss:      0.00818943
+len of train_loader = 8
+Average loss:      0.00572719
+Average test loss:      0.00832841
+len of train_loader = 8
+Average loss:      0.00568743
+Average test loss:      0.00734936
+len of train_loader = 8
+Average loss:      0.00549549
+Average test loss:      0.00834119
+len of train_loader = 8
+Average loss:      0.00547366
+Average test loss:      0.00835912
+len of train_loader = 8
+Average loss:      0.00561833
+Average test loss:      0.00898610
+len of train_loader = 8
+Average loss:      0.00555350
+Average test loss:      0.00808684
+len of train_loader = 8
+Average loss:      0.00553180
+Average test loss:      0.00814347
+len of train_loader = 8
+Average loss:      0.00543647
+Average test loss:      0.00764112
+len of train_loader = 8
+Average loss:      0.00538297
+Average test loss:      0.00767541
+len of train_loader = 8
+Average loss:      0.00570072
+Average test loss:      0.00851645
+len of train_loader = 8
+Average loss:      0.00567499
+Average test loss:      0.00807464
+len of train_loader = 8
+Average loss:      0.00566229
+Average test loss:      0.00746705
+len of train_loader = 8
+Average loss:      0.00712178
+Average test loss:      0.01047490
+len of train_loader = 8
+Average loss:      0.00713694
+Average test loss:      0.01018119
+len of train_loader = 8
+Average loss:      0.00681633
+Average test loss:      0.00925403
+len of train_loader = 8
+Average loss:      0.00631465
+Average test loss:      0.00964378
+len of train_loader = 8
+Average loss:      0.00602939
+Average test loss:      0.00838769
+len of train_loader = 8
+Average loss:      0.00593128
+Average test loss:      0.00766217
+len of train_loader = 8
+Average loss:      0.00560969
+Average test loss:      0.00772408
+len of train_loader = 8
+Average loss:      0.00553498
+Average test loss:      0.00771795
+len of train_loader = 8
+Average loss:      0.00548154
+Average test loss:      0.00729768
+len of train_loader = 8
+Average loss:      0.00589853
+Average test loss:      0.00797510
+len of train_loader = 8
+Average loss:      0.00577426
+Average test loss:      0.00677788
+len of train_loader = 8
+Average loss:      0.00544199
+Average test loss:      0.00746463
+len of train_loader = 8
+Average loss:      0.00530607
+Average test loss:      0.00723565
+len of train_loader = 8
+Average loss:      0.00532809
+Average test loss:      0.00740170
+len of train_loader = 8
+Average loss:      0.00574549
+Average test loss:      0.00805036
+len of train_loader = 8
+Average loss:      0.00573256
+Average test loss:      0.00846475
+len of train_loader = 8
+Average loss:      0.00572234
+Average test loss:      0.00787418
+len of train_loader = 8
+Average loss:      0.00554888
+Average test loss:      0.00793684
+len of train_loader = 8
+Average loss:      0.00530027
+Average test loss:      0.00696946
+len of train_loader = 8
+Average loss:      0.00542036
+Average test loss:      0.00652328
+len of train_loader = 8
+Average loss:      0.00519887
+Average test loss:      0.00672705
+len of train_loader = 8
+Average loss:      0.00529265
+Average test loss:      0.00736529
+len of train_loader = 8
+Average loss:      0.00554138
+Average test loss:      0.00681763
+len of train_loader = 8
+Average loss:      0.00598380
+Average test loss:      0.00849803
+len of train_loader = 8
+Average loss:      0.00621035
+Average test loss:      0.00818275
+len of train_loader = 8
+Average loss:      0.00620795
+Average test loss:      0.00809287
+len of train_loader = 8
+Average loss:      0.00602157
+Average test loss:      0.00783806
+len of train_loader = 8
+Average loss:      0.00583775
+Average test loss:      0.00764002
+len of train_loader = 8
+Average loss:      0.00576751
+Average test loss:      0.00835348
+len of train_loader = 8
+Average loss:      0.00576448
+Average test loss:      0.00767826
+len of train_loader = 8
+Average loss:      0.00583688
+Average test loss:      0.00786133
+len of train_loader = 8
+Average loss:      0.00584888
+Average test loss:      0.00730912
+len of train_loader = 8
+Average loss:      0.00566878
+Average test loss:      0.00723410
+len of train_loader = 8
+Average loss:      0.00645131
+Average test loss:      0.00854149
+len of train_loader = 8
+Average loss:      0.00631424
+Average test loss:      0.00847748
+len of train_loader = 8
+Average loss:      0.00603950
+Average test loss:      0.00746295
+len of train_loader = 8
+Average loss:      0.00576422
+Average test loss:      0.00764243
+len of train_loader = 8
+Average loss:      0.00570178
+Average test loss:      0.00715906
+len of train_loader = 8
+Average loss:      0.00570505
+Average test loss:      0.00713303
+len of train_loader = 8
+Average loss:      0.00537383
+Average test loss:      0.00752166
+len of train_loader = 8
+Average loss:      0.00543757
+Average test loss:      0.00718460
+len of train_loader = 8
+Average loss:      0.00534109
+Average test loss:      0.00727491
+len of train_loader = 8
+Average loss:      0.00560511
+Average test loss:      0.00669702
+len of train_loader = 8
+Average loss:      0.00551508
+Average test loss:      0.00776739
+len of train_loader = 8
+Average loss:      0.00537975
+Average test loss:      0.00691240
+len of train_loader = 8
+Average loss:      0.00530277
+Average test loss:      0.00749595
+len of train_loader = 8
+Average loss:      0.00555482
+Average test loss:      0.00802776
+len of train_loader = 8
+Average loss:      0.00553222
+Average test loss:      0.00674637
+len of train_loader = 8
+Average loss:      0.00517599
+Average test loss:      0.00629200
+len of train_loader = 8
+Average loss:      0.00512707
+Average test loss:      0.00702526
+len of train_loader = 8
+Average loss:      0.00523668
+Average test loss:      0.00722486
+len of train_loader = 8
+Average loss:      0.00547560
+Average test loss:      0.00670940
+len of train_loader = 8
+Average loss:      0.00540357
+Average test loss:      0.00719586
+len of train_loader = 8
+Average loss:      0.00546315
+Average test loss:      0.00674581
+len of train_loader = 8
+Average loss:      0.00544720
+Average test loss:      0.00710518
+len of train_loader = 8
+Average loss:      0.00556045
+Average test loss:      0.00660320
+len of train_loader = 8
+Average loss:      0.00519411
+Average test loss:      0.00643463
+len of train_loader = 8
+Average loss:      0.00544634
+Average test loss:      0.00768215
+len of train_loader = 8
+Average loss:      0.00576135
+Average test loss:      0.00800112
+len of train_loader = 8
+Average loss:      0.00548686
+Average test loss:      0.00702140
+len of train_loader = 8
+Average loss:      0.00531676
+Average test loss:      0.00744521
+len of train_loader = 8
+Average loss:      0.00660382
+Average test loss:      0.00863481
+len of train_loader = 8
+Average loss:      0.00685482
+Average test loss:      0.00912118
+len of train_loader = 8
+Average loss:      0.00668062
+Average test loss:      0.00754879
+len of train_loader = 8
+Average loss:      0.00629835
+Average test loss:      0.00827132
+len of train_loader = 8
+Average loss:      0.00602944
+Average test loss:      0.00787946
+len of train_loader = 8
+Average loss:      0.00607102
+Average test loss:      0.00755107
+len of train_loader = 8
+Average loss:      0.00597533
+Average test loss:      0.00769281
+len of train_loader = 8
+Average loss:      0.00585756
+Average test loss:      0.00749365
+len of train_loader = 8
+Average loss:      0.00569867
+Average test loss:      0.00764308
+len of train_loader = 8
+Average loss:      0.00569709
+Average test loss:      0.00690483
+len of train_loader = 8
+Average loss:      0.00555054
+Average test loss:      0.00723074
+len of train_loader = 8
+Average loss:      0.00573572
+Average test loss:      0.00872094
+len of train_loader = 8
+Average loss:      0.00583827
+Average test loss:      0.00872140
+len of train_loader = 8
+Average loss:      0.00573980
+Average test loss:      0.00746418
+len of train_loader = 8
+Average loss:      0.00570011
+Average test loss:      0.00840485
+len of train_loader = 8
+Average loss:      0.00568403
+Average test loss:      0.00733478
+len of train_loader = 8
+Average loss:      0.00555073
+Average test loss:      0.00739361
+len of train_loader = 8
+Average loss:      0.00546747
+Average test loss:      0.00706341
+len of train_loader = 8
+Average loss:      0.00541913
+Average test loss:      0.00710319
+len of train_loader = 8
+Average loss:      0.00531219
+Average test loss:      0.00719623
+len of train_loader = 8
+Average loss:      0.00540593
+Average test loss:      0.00697174
+len of train_loader = 8
+Average loss:      0.00554003
+Average test loss:      0.00755787
+len of train_loader = 8
+Average loss:      0.00570268
+Average test loss:      0.00709099
+len of train_loader = 8
+Average loss:      0.00523430
+Average test loss:      0.00684893
+len of train_loader = 8
+Average loss:      0.00514512
+Average test loss:      0.00697300
+len of train_loader = 8
+Average loss:      0.00549268
+Average test loss:      0.00829544
+len of train_loader = 8
+Average loss:      0.00523592
+Average test loss:      0.00700601
+len of train_loader = 8
+Average loss:      0.00504454
+Average test loss:      0.00677402
+len of train_loader = 8
+Average loss:      0.00492958
+Average test loss:      0.00686285
+len of train_loader = 8
+Average loss:      0.00517617
+Average test loss:      0.00706181
+len of train_loader = 8
+Average loss:      0.00520128
+Average test loss:      0.00697541
+len of train_loader = 8
+Average loss:      0.00509323
+Average test loss:      0.00690114
+len of train_loader = 8
+Average loss:      0.00512003
+Average test loss:      0.00688357
+len of train_loader = 8
+Average loss:      0.00509378
+Average test loss:      0.00635987
+len of train_loader = 8
+Average loss:      0.00496579
+Average test loss:      0.00687753
+len of train_loader = 8
+Average loss:      0.00490724
+Average test loss:      0.00680276
+len of train_loader = 8
+Average loss:      0.00484415
+Average test loss:      0.00682273
+len of train_loader = 8
+Average loss:      0.00491539
+Average test loss:      0.00747859
+len of train_loader = 8
+Average loss:      0.00504583
+Average test loss:      0.00901967
+len of train_loader = 8
+Average loss:      0.00501048
+Average test loss:      0.00738852
+len of train_loader = 8
+Average loss:      0.00502339
+Average test loss:      0.00761756
+len of train_loader = 8
+Average loss:      0.00492149
+Average test loss:      0.00799159
+len of train_loader = 8
+Average loss:      0.00494996
+Average test loss:      0.00628257
+len of train_loader = 8
+Average loss:      0.00504794
+Average test loss:      0.00695823
+len of train_loader = 8
+Average loss:      0.00495991
+Average test loss:      0.00760462
+len of train_loader = 8
+Average loss:      0.00509385
+Average test loss:      0.00627490
+len of train_loader = 8
+Average loss:      0.00519591
+Average test loss:      0.00729985
+len of train_loader = 8
+Average loss:      0.00514941
+Average test loss:      0.00661111
+len of train_loader = 8
+Average loss:      0.00506050
+Average test loss:      0.00771698
+len of train_loader = 8
+Average loss:      0.00512695
+Average test loss:      0.00605708
+len of train_loader = 8
+Average loss:      0.00493013
+Average test loss:      0.00844769
+len of train_loader = 8
+Average loss:      0.00484533
+Average test loss:      0.00626518
+len of train_loader = 8
+Average loss:      0.00476042
+Average test loss:      0.00757772
+len of train_loader = 8
+Average loss:      0.00473823
+Average test loss:      0.00604121
+len of train_loader = 8
+Average loss:      0.00474411
+Average test loss:      0.00603569
+len of train_loader = 8
+Average loss:      0.00467440
+Average test loss:      0.00583469
+len of train_loader = 8
+Average loss:      0.00475518
+Average test loss:      0.00642730
+len of train_loader = 8
+Average loss:      0.00496774
+Average test loss:      0.00668046
+len of train_loader = 8
+Average loss:      0.00478276
+Average test loss:      0.00673209
+len of train_loader = 8
+Average loss:      0.00477527
+Average test loss:      0.00650482
+len of train_loader = 8
+Average loss:      0.00465823
+Average test loss:      0.00634317
+len of train_loader = 8
+Average loss:      0.00457622
+Average test loss:      0.00654062
+len of train_loader = 8
+Average loss:      0.00484406
+Average test loss:      0.00671346
+len of train_loader = 8
+Average loss:      0.00481568
+Average test loss:      0.00682289
+len of train_loader = 8
+Average loss:      0.00499263
+Average test loss:      0.00897483
+len of train_loader = 8
+Average loss:      0.00568966
+Average test loss:      0.00668664
+len of train_loader = 8
+Average loss:      0.00526395
+Average test loss:      0.00741802
+len of train_loader = 8
+Average loss:      0.00506144
+Average test loss:      0.00647063
+len of train_loader = 8
+Average loss:      0.00513217
+Average test loss:      0.01033966
+len of train_loader = 8
+Average loss:      0.00562146
+Average test loss:      0.00850953
+len of train_loader = 8
+Average loss:      0.00586432
+Average test loss:      0.01002742
+len of train_loader = 8
+Average loss:      0.00557581
+Average test loss:      0.00656282
+len of train_loader = 8
+Average loss:      0.00480609
+Average test loss:      0.00712434
+len of train_loader = 8
+Average loss:      0.00483144
+Average test loss:      0.00647980
+len of train_loader = 8
+Average loss:      0.00467829
+Average test loss:      0.00601147
+len of train_loader = 8
+Average loss:      0.00477264
+Average test loss:      0.00709241
+len of train_loader = 8
+Average loss:      0.00484470
+Average test loss:      0.00632015
+len of train_loader = 8
+Average loss:      0.00479550
+Average test loss:      0.00590041
+len of train_loader = 8
+Average loss:      0.00456810
+Average test loss:      0.00652775
+len of train_loader = 8
+Average loss:      0.00472135
+Average test loss:      0.00640442
+len of train_loader = 8
+Average loss:      0.00478347
+Average test loss:      0.00620370
+len of train_loader = 8
+Average loss:      0.00464830
+Average test loss:      0.00685189
+len of train_loader = 8
+Average loss:      0.00470970
+Average test loss:      0.00696376
+len of train_loader = 8
+Average loss:      0.00476895
+Average test loss:      0.00769487
+len of train_loader = 8
+Average loss:      0.00473483
+Average test loss:      0.00742682
+len of train_loader = 8
+Average loss:      0.00463434
+Average test loss:      0.00622192
+len of train_loader = 8
+Average loss:      0.00464224
+Average test loss:      0.00725461
+len of train_loader = 8
+Average loss:      0.00455064
+Average test loss:      0.00553541
+len of train_loader = 8
+Average loss:      0.00459516
+Average test loss:      0.00583392
+len of train_loader = 8
+Average loss:      0.00532375
+Average test loss:      0.00767188
+len of train_loader = 8
+Average loss:      0.00532637
+Average test loss:      0.00718014
+len of train_loader = 8
+Average loss:      0.00515365
+Average test loss:      0.00719096
+len of train_loader = 8
+Average loss:      0.00525120
+Average test loss:      0.00986872
+len of train_loader = 8
+Average loss:      0.00690644
+Average test loss:      0.00853403
+len of train_loader = 8
+Average loss:      0.00660855
+Average test loss:      0.00963327
+len of train_loader = 8
+Average loss:      0.00634986
+Average test loss:      0.00894354
+len of train_loader = 8
+Average loss:      0.00586851
+Average test loss:      0.00863809
+len of train_loader = 8
+Average loss:      0.00525587
+Average test loss:      0.00799549
+len of train_loader = 8
+Average loss:      0.00502077
+Average test loss:      0.00960780
+len of train_loader = 8
+Average loss:      0.00487266
+Average test loss:      0.00677253
+len of train_loader = 8
+Average loss:      0.00475741
+Average test loss:      0.00731839
+len of train_loader = 8
+Average loss:      0.00476787
+Average test loss:      0.00680404
+len of train_loader = 8
+Average loss:      0.00501381
+Average test loss:      0.00753113
+len of train_loader = 8
+Average loss:      0.00495125
+Average test loss:      0.00618982
+len of train_loader = 8
+Average loss:      0.00458359
+Average test loss:      0.00733394
+len of train_loader = 8
+Average loss:      0.00470685
+Average test loss:      0.00721211
+len of train_loader = 8
+Average loss:      0.00484367
+Average test loss:      0.00621746
+len of train_loader = 8
+Average loss:      0.00463568
+Average test loss:      0.00622803
+len of train_loader = 8
+Average loss:      0.00458347
+Average test loss:      0.00709241
+len of train_loader = 8
+Average loss:      0.00471183
+Average test loss:      0.00639157
+len of train_loader = 8
+Average loss:      0.00459383
+Average test loss:      0.00622715
+len of train_loader = 8
+Average loss:      0.00464040
+Average test loss:      0.00752568
+len of train_loader = 8
+Average loss:      0.00482687
+Average test loss:      0.00710926
+len of train_loader = 8
+Average loss:      0.00467516
+Average test loss:      0.00607411
+len of train_loader = 8
+Average loss:      0.00462464
+Average test loss:      0.00796973
+len of train_loader = 8
+Average loss:      0.00505848
+Average test loss:      0.00777386
+len of train_loader = 8
+Average loss:      0.00491070
+Average test loss:      0.00831998
+len of train_loader = 8
+Average loss:      0.00505415
+Average test loss:      0.00661766
+len of train_loader = 8
+Average loss:      0.00503397
+Average test loss:      0.00854646
+len of train_loader = 8
+Average loss:      0.00454658
+Average test loss:      0.00670096
+len of train_loader = 8
+Average loss:      0.00464383
+Average test loss:      0.00606788
+len of train_loader = 8
+Average loss:      0.00451305
+Average test loss:      0.00768971
+len of train_loader = 8
+Average loss:      0.00468325
+Average test loss:      0.00614503
+len of train_loader = 8
+Average loss:      0.00458140
+Average test loss:      0.00727028
+len of train_loader = 8
+Average loss:      0.00443826
+Average test loss:      0.00564882
+len of train_loader = 8
+Average loss:      0.00449586
+Average test loss:      0.00561138
+len of train_loader = 8
+Average loss:      0.00441724
+Average test loss:      0.00794562
+len of train_loader = 8
+Average loss:      0.00455823
+Average test loss:      0.00621087
+len of train_loader = 8
+Average loss:      0.00452904
+Average test loss:      0.00619355
+len of train_loader = 8
+Average loss:      0.00458197
+Average test loss:      0.00716728
+len of train_loader = 8
+Average loss:      0.00456273
+Average test loss:      0.00589440
+len of train_loader = 8
+Average loss:      0.00448250
+Average test loss:      0.00587697
+len of train_loader = 8
+Average loss:      0.00439911
+Average test loss:      0.00714931
+len of train_loader = 8
+Average loss:      0.00455480
+Average test loss:      0.00675815
+len of train_loader = 8
+Average loss:      0.00456039
+Average test loss:      0.00623676
+len of train_loader = 8
+Average loss:      0.00464389
+Average test loss:      0.00708356
+len of train_loader = 8
+Average loss:      0.00446615
+Average test loss:      0.00575050
+len of train_loader = 8
+Average loss:      0.00450445
+Average test loss:      0.00806042
+len of train_loader = 8
+Average loss:      0.00453745
+Average test loss:      0.00668396
+len of train_loader = 8
+Average loss:      0.00458477
+Average test loss:      0.00672172
+len of train_loader = 8
+Average loss:      0.00442495
+Average test loss:      0.00609144
+len of train_loader = 8
+Average loss:      0.00449450
+Average test loss:      0.00667350
+len of train_loader = 8
+Average loss:      0.00447644
+Average test loss:      0.00597613
+len of train_loader = 8
+Average loss:      0.00443017
+Average test loss:      0.00562478
+len of train_loader = 8
+Average loss:      0.00434769
+Average test loss:      0.00655127
+len of train_loader = 8
+Average loss:      0.00439114
+Average test loss:      0.00607840
+len of train_loader = 8
+Average loss:      0.00434611
+Average test loss:      0.00635234
+len of train_loader = 8
+Average loss:      0.00438915
+Average test loss:      0.00661845
+len of train_loader = 8
+Average loss:      0.00442226
+Average test loss:      0.00600665
+len of train_loader = 8
+Average loss:      0.00462693
+Average test loss:      0.00807174
+len of train_loader = 8
+Average loss:      0.00453412
+Average test loss:      0.00567778
+len of train_loader = 8
+Average loss:      0.00462973
+Average test loss:      0.00620350
+len of train_loader = 8
+Average loss:      0.00462318
+Average test loss:      0.00689922
+len of train_loader = 8
+Average loss:      0.00471293
+Average test loss:      0.00743375
+len of train_loader = 8
+Average loss:      0.00482189
+Average test loss:      0.00600190
+len of train_loader = 8
+Average loss:      0.00447011
+Average test loss:      0.00819851
+len of train_loader = 8
+Average loss:      0.00451227
+Average test loss:      0.00600892
+len of train_loader = 8
+Average loss:      0.00467138
+Average test loss:      0.00603971
+len of train_loader = 8
+Average loss:      0.00444049
+Average test loss:      0.00636225
+len of train_loader = 8
+Average loss:      0.00444649
+Average test loss:      0.00612340
+len of train_loader = 8
+Average loss:      0.00432110
+Average test loss:      0.00653152
+len of train_loader = 8
+Average loss:      0.00448245
+Average test loss:      0.00618410
+len of train_loader = 8
+Average loss:      0.00444745
+Average test loss:      0.00849301
+len of train_loader = 8
+Average loss:      0.00441143
+Average test loss:      0.00687284
+len of train_loader = 8
+Average loss:      0.00447242
+Average test loss:      0.00668575
+len of train_loader = 8
+Average loss:      0.00435440
+Average test loss:      0.00609761
+len of train_loader = 8
+Average loss:      0.00449833
+Average test loss:      0.00609463
+len of train_loader = 8
+Average loss:      0.00451710
+Average test loss:      0.00769373
+len of train_loader = 8
+Average loss:      0.00425435
+Average test loss:      0.00603457
+len of train_loader = 8
+Average loss:      0.00431995
+Average test loss:      0.00660766
+len of train_loader = 8
+Average loss:      0.00428756
+Average test loss:      0.00572531
+len of train_loader = 8
+Average loss:      0.00433318
+Average test loss:      0.00647777
+len of train_loader = 8
+Average loss:      0.00438872
+Average test loss:      0.00589311
+len of train_loader = 8
+Average loss:      0.00432732
+Average test loss:      0.00696339
+len of train_loader = 8
+Average loss:      0.00436733
+Average test loss:      0.00632693
+len of train_loader = 8
+Average loss:      0.00422074
+Average test loss:      0.00648660
+len of train_loader = 8
+Average loss:      0.00411159
+Average test loss:      0.00590560
+len of train_loader = 8
+Average loss:      0.00428030
+Average test loss:      0.00651448
+len of train_loader = 8
+Average loss:      0.00431136
+Average test loss:      0.00585618
+len of train_loader = 8
+Average loss:      0.00431645
+Average test loss:      0.00610427
+len of train_loader = 8
+Average loss:      0.00447348
+Average test loss:      0.00581725
+len of train_loader = 8
+Average loss:      0.00439290
+Average test loss:      0.00616316
+len of train_loader = 8
+Average loss:      0.00421132
+Average test loss:      0.00562808
+len of train_loader = 8
+Average loss:      0.00411118
+Average test loss:      0.00548025
+len of train_loader = 8
+Average loss:      0.00443385
+Average test loss:      0.00776920
+len of train_loader = 8
+Average loss:      0.00487135
+Average test loss:      0.00726407
+len of train_loader = 8
+Average loss:      0.00492324
+Average test loss:      0.00754086
+len of train_loader = 8
+Average loss:      0.00473605
+Average test loss:      0.00849631
+len of train_loader = 8
+Average loss:      0.00442934
+Average test loss:      0.00743940
+len of train_loader = 8
+Average loss:      0.00431059
+Average test loss:      0.00645917
+len of train_loader = 8
+Average loss:      0.00447332
+Average test loss:      0.00731160
+len of train_loader = 8
+Average loss:      0.00444953
+Average test loss:      0.00703759
+len of train_loader = 8
+Average loss:      0.00444546
+Average test loss:      0.00611226
+len of train_loader = 8
+Average loss:      0.00443273
+Average test loss:      0.00556463
+len of train_loader = 8
+Average loss:      0.00433870
+Average test loss:      0.00692201
+len of train_loader = 8
+Average loss:      0.00434926
+Average test loss:      0.00688827
+len of train_loader = 8
+Average loss:      0.00445156
+Average test loss:      0.00732584
+len of train_loader = 8
+Average loss:      0.00426012
+Average test loss:      0.00643750
+len of train_loader = 8
+Average loss:      0.00424953
+Average test loss:      0.00571278
+len of train_loader = 8
+Average loss:      0.00455210
+Average test loss:      0.00754663
+len of train_loader = 8
+Average loss:      0.00424209
+Average test loss:      0.00657329
+len of train_loader = 8
+Average loss:      0.00409511
+Average test loss:      0.00646699
+len of train_loader = 8
+Average loss:      0.00402673
+Average test loss:      0.00582184
+len of train_loader = 8
+Average loss:      0.00411108
+Average test loss:      0.00662217
+len of train_loader = 8
+Average loss:      0.00440304
+Average test loss:      0.00654393
+len of train_loader = 8
+Average loss:      0.00438918
+Average test loss:      0.00688258
+len of train_loader = 8
+Average loss:      0.00456075
+Average test loss:      0.00672802
+len of train_loader = 8
+Average loss:      0.00438333
+Average test loss:      0.00642613
+len of train_loader = 8
+Average loss:      0.00418267
+Average test loss:      0.00693168
+len of train_loader = 8
+Average loss:      0.00425866
+Average test loss:      0.00594096
+len of train_loader = 8
+Average loss:      0.00428841
+Average test loss:      0.00606147
+len of train_loader = 8
+Average loss:      0.00417391
+Average test loss:      0.00609020
+len of train_loader = 8
+Average loss:      0.00426797
+Average test loss:      0.00561828
+len of train_loader = 8
+Average loss:      0.00423311
+Average test loss:      0.00649231
+len of train_loader = 8
+Average loss:      0.00438103
+Average test loss:      0.00567293
+len of train_loader = 8
+Average loss:      0.00432161
+Average test loss:      0.00627769
+len of train_loader = 8
+Average loss:      0.00419281
+Average test loss:      0.00612452
+len of train_loader = 8
+Average loss:      0.00407232
+Average test loss:      0.00595198
+len of train_loader = 8
+Average loss:      0.00414980
+Average test loss:      0.00623119
+len of train_loader = 8
+Average loss:      0.00412655
+Average test loss:      0.00614633
+len of train_loader = 8
+Average loss:      0.00418993
+Average test loss:      0.00553366
+len of train_loader = 8
+Average loss:      0.00428517
+Average test loss:      0.00711300
+len of train_loader = 8
+Average loss:      0.00438776
+Average test loss:      0.00638099
+len of train_loader = 8
+Average loss:      0.00441725
+Average test loss:      0.00637486
+len of train_loader = 8
+Average loss:      0.00408682
+Average test loss:      0.00623753
+len of train_loader = 8
+Average loss:      0.00406203
+Average test loss:      0.00647575
+len of train_loader = 8
+Average loss:      0.00418125
+Average test loss:      0.00574020
+len of train_loader = 8
+Average loss:      0.00415660
+Average test loss:      0.00636985
+len of train_loader = 8
+Average loss:      0.00429703
+Average test loss:      0.00618324
+len of train_loader = 8
+Average loss:      0.00414115
+Average test loss:      0.00619075
+len of train_loader = 8
+Average loss:      0.00402435
+Average test loss:      0.00678119
+len of train_loader = 8
+Average loss:      0.00422768
+Average test loss:      0.00638205
+len of train_loader = 8
+Average loss:      0.00424695
+Average test loss:      0.00659382
+len of train_loader = 8
+Average loss:      0.00436037
+Average test loss:      0.00687697
+len of train_loader = 8
+Average loss:      0.00440950
+Average test loss:      0.00711261
+len of train_loader = 8
+Average loss:      0.00445653
+Average test loss:      0.00681871
+len of train_loader = 8
+Average loss:      0.00427124
+Average test loss:      0.00595034
+len of train_loader = 8
+Average loss:      0.00440206
+Average test loss:      0.00669943
+len of train_loader = 8
+Average loss:      0.00490879
+Average test loss:      0.00601804
+len of train_loader = 8
+Average loss:      0.00433529
+Average test loss:      0.00637491
+len of train_loader = 8
+Average loss:      0.00433948
+Average test loss:      0.00591273
+len of train_loader = 8
+Average loss:      0.00417718
+Average test loss:      0.00657418
+len of train_loader = 8
+Average loss:      0.00410160
+Average test loss:      0.00562648
+len of train_loader = 8
+Average loss:      0.00416144
+Average test loss:      0.00600191
+len of train_loader = 8
+Average loss:      0.00429596
+Average test loss:      0.00520951
+len of train_loader = 8
+Average loss:      0.00410570
+Average test loss:      0.00585437
+len of train_loader = 8
+Average loss:      0.00400763
+Average test loss:      0.00576591
+len of train_loader = 8
+Average loss:      0.00402086
+Average test loss:      0.00689920
+len of train_loader = 8
+Average loss:      0.00408639
+Average test loss:      0.00566318
+len of train_loader = 8
+Average loss:      0.00400870
+Average test loss:      0.00561065
+len of train_loader = 8
+Average loss:      0.00395509
+Average test loss:      0.00606550
+len of train_loader = 8
+Average loss:      0.00392598
+Average test loss:      0.00541364
+len of train_loader = 8
+Average loss:      0.00406384
+Average test loss:      0.00639459
+len of train_loader = 8
+Average loss:      0.00430155
+Average test loss:      0.00527268
+len of train_loader = 8
+Average loss:      0.00423605
+Average test loss:      0.00581921
+len of train_loader = 8
+Average loss:      0.00434365
+Average test loss:      0.00614628
+len of train_loader = 8
+Average loss:      0.00435704
+Average test loss:      0.00776783
+len of train_loader = 8
+Average loss:      0.00476290
+Average test loss:      0.00643986
+len of train_loader = 8
+Average loss:      0.00472737
+Average test loss:      0.00751898
+len of train_loader = 8
+Average loss:      0.00431569
+Average test loss:      0.00641609
+len of train_loader = 8
+Average loss:      0.00433216
+Average test loss:      0.00602369
+len of train_loader = 8
+Average loss:      0.00452967
+Average test loss:      0.00639005
+len of train_loader = 8
+Average loss:      0.00458994
+Average test loss:      0.00707299
+len of train_loader = 8
+Average loss:      0.00406420
+Average test loss:      0.00554400
+len of train_loader = 8
+Average loss:      0.00409022
+Average test loss:      0.00704038
+len of train_loader = 8
+Average loss:      0.00459940
+Average test loss:      0.00505119
+len of train_loader = 8
+Average loss:      0.00459707
+Average test loss:      0.00645566
+len of train_loader = 8
+Average loss:      0.00463559
+Average test loss:      0.00661827
+len of train_loader = 8
+Average loss:      0.00419807
+Average test loss:      0.00611927
+len of train_loader = 8
+Average loss:      0.00409084
+Average test loss:      0.00558574
+len of train_loader = 8
+Average loss:      0.00397754
+Average test loss:      0.00552747
+len of train_loader = 8
+Average loss:      0.00383639
+Average test loss:      0.00648150
+len of train_loader = 8
+Average loss:      0.00404280
+Average test loss:      0.00543211
+len of train_loader = 8
+Average loss:      0.00389952
+Average test loss:      0.00545463
+len of train_loader = 8
+Average loss:      0.00392520
+Average test loss:      0.00600259
+len of train_loader = 8
+Average loss:      0.00404661
+Average test loss:      0.00535831
+len of train_loader = 8
+Average loss:      0.00415907
+Average test loss:      0.00686947
+len of train_loader = 8
+Average loss:      0.00410540
+Average test loss:      0.00693681
+len of train_loader = 8
+Average loss:      0.00401227
+Average test loss:      0.00557193
+len of train_loader = 8
+Average loss:      0.00394237
+Average test loss:      0.00560398
+len of train_loader = 8
+Average loss:      0.00409018
+Average test loss:      0.00542761
+len of train_loader = 8
+Average loss:      0.00413849
+Average test loss:      0.00539091
+len of train_loader = 8
+Average loss:      0.00392790
+Average test loss:      0.00568841
+len of train_loader = 8
+Average loss:      0.00396436
+Average test loss:      0.00639033
+len of train_loader = 8
+Average loss:      0.00396598
+Average test loss:      0.00731066
+len of train_loader = 8
+Average loss:      0.00451582
+Average test loss:      0.00600696
+len of train_loader = 8
+Average loss:      0.00441334
+Average test loss:      0.00593122
+len of train_loader = 8
+Average loss:      0.00412025
+Average test loss:      0.00638260
+len of train_loader = 8
+Average loss:      0.00394590
+Average test loss:      0.00686951
+len of train_loader = 8
+Average loss:      0.00420749
+Average test loss:      0.00515460
+len of train_loader = 8
+Average loss:      0.00396784
+Average test loss:      0.00523040
+len of train_loader = 8
+Average loss:      0.00392296
+Average test loss:      0.00545320
+len of train_loader = 8
+Average loss:      0.00392277
+Average test loss:      0.00578014
+len of train_loader = 8
+Average loss:      0.00385235
+Average test loss:      0.00666126
+len of train_loader = 8
+Average loss:      0.00394487
+Average test loss:      0.00553231
+len of train_loader = 8
+Average loss:      0.00404172
+Average test loss:      0.00588633
+len of train_loader = 8
+Average loss:      0.00407778
+Average test loss:      0.00605104
+len of train_loader = 8
+Average loss:      0.00435949
+Average test loss:      0.00667979
+len of train_loader = 8
+Average loss:      0.00451359
+Average test loss:      0.00869606
+len of train_loader = 8
+Average loss:      0.00446722
+Average test loss:      0.00548918
+len of train_loader = 8
+Average loss:      0.00405201
+Average test loss:      0.00747384
+len of train_loader = 8
+Average loss:      0.00387266
+Average test loss:      0.00585212
+len of train_loader = 8
+Average loss:      0.00394434
+Average test loss:      0.00563548
+len of train_loader = 8
+Average loss:      0.00393075
+Average test loss:      0.00748987
+len of train_loader = 8
+Average loss:      0.00410341
+Average test loss:      0.00574080
+len of train_loader = 8
+Average loss:      0.00425354
+Average test loss:      0.00594837
+len of train_loader = 8
+Average loss:      0.00403658
+Average test loss:      0.00604723
+len of train_loader = 8
+Average loss:      0.00401787
+Average test loss:      0.00576771
+len of train_loader = 8
+Average loss:      0.00401501
+Average test loss:      0.00559132
+len of train_loader = 8
+Average loss:      0.00403112
+Average test loss:      0.00595090
+len of train_loader = 8
+Average loss:      0.00405870
+Average test loss:      0.00643903
+len of train_loader = 8
+Average loss:      0.00407647
+Average test loss:      0.00590462
+len of train_loader = 8
+Average loss:      0.00388984
+Average test loss:      0.00587462
+len of train_loader = 8
+Average loss:      0.00395907
+Average test loss:      0.00527619
+len of train_loader = 8
+Average loss:      0.00387550
+Average test loss:      0.00637465
+len of train_loader = 8
+Average loss:      0.00400665
+Average test loss:      0.00686046
+len of train_loader = 8
+Average loss:      0.00409072
+Average test loss:      0.00730963
+len of train_loader = 8
+Average loss:      0.00410311
+Average test loss:      0.00637697
+len of train_loader = 8
+Average loss:      0.00377467
+Average test loss:      0.00585206
+len of train_loader = 8
+Average loss:      0.00402384
+Average test loss:      0.00582507
+len of train_loader = 8
+Average loss:      0.00387099
+Average test loss:      0.00580830
+len of train_loader = 8
+Average loss:      0.00393538
+Average test loss:      0.00605230
+len of train_loader = 8
+Average loss:      0.00400308
+Average test loss:      0.00576955
+len of train_loader = 8
+Average loss:      0.00404011
+Average test loss:      0.00637570
+len of train_loader = 8
+Average loss:      0.00406421
+Average test loss:      0.00559729
+len of train_loader = 8
+Average loss:      0.00394671
+Average test loss:      0.00566440
+len of train_loader = 8
+Average loss:      0.00385821
+Average test loss:      0.00699993
+len of train_loader = 8
+Average loss:      0.00401207
+Average test loss:      0.00573913
+len of train_loader = 8
+Average loss:      0.00385851
+Average test loss:      0.00601643
+len of train_loader = 8
+Average loss:      0.00398005
+Average test loss:      0.00696906
+len of train_loader = 8
+Average loss:      0.00418364
+Average test loss:      0.00603316
+len of train_loader = 8
+Average loss:      0.00403465
+Average test loss:      0.00618791
+len of train_loader = 8
+Average loss:      0.00432160
+Average test loss:      0.00816455
+len of train_loader = 8
+Average loss:      0.00509286
+Average test loss:      0.00842057
+len of train_loader = 8
+Average loss:      0.00478544
+Average test loss:      0.00703948
+len of train_loader = 8
+Average loss:      0.00441714
+Average test loss:      0.00655559
+len of train_loader = 8
+Average loss:      0.00422226
+Average test loss:      0.00693813
+len of train_loader = 8
+Average loss:      0.00411600
+Average test loss:      0.00710118
+len of train_loader = 8
+Average loss:      0.00404364
+Average test loss:      0.00609621
+len of train_loader = 8
+Average loss:      0.00379471
+Average test loss:      0.00667175
+len of train_loader = 8
+Average loss:      0.00385896
+Average test loss:      0.00579851
+len of train_loader = 8
+Average loss:      0.00420080
+Average test loss:      0.00617849
+len of train_loader = 8
+Average loss:      0.00456778
+Average test loss:      0.00642063
+len of train_loader = 8
+Average loss:      0.03920642
+Average test loss:      0.01514279
+len of train_loader = 8
+Average loss:      0.01296949
+Average test loss:      0.01638188
+len of train_loader = 8
+Average loss:      0.01204708
+Average test loss:      0.01499238
+len of train_loader = 8
+Average loss:      0.00992263
+Average test loss:      0.01213309
+len of train_loader = 8
+Average loss:      0.00797362
+Average test loss:      0.01088105
+len of train_loader = 8
+Average loss:      0.00702212
+Average test loss:      0.00997583
+len of train_loader = 8
+Average loss:      0.00639271
+Average test loss:      0.00983853
+len of train_loader = 8
+Average loss:      0.00599064
+Average test loss:      0.00880125
+len of train_loader = 8
+Average loss:      0.00570004
+Average test loss:      0.01055741
+len of train_loader = 8
+Average loss:      0.00531838
+Average test loss:      0.00781366
+len of train_loader = 8
+Average loss:      0.00521850
+Average test loss:      0.00805467
+len of train_loader = 8
+Average loss:      0.00514891
+Average test loss:      0.00781952
+len of train_loader = 8
+Average loss:      0.00497239
+Average test loss:      0.00775415
+len of train_loader = 8
+Average loss:      0.00524333
+Average test loss:      0.00782053
+len of train_loader = 8
+Average loss:      0.00560175
+Average test loss:      0.00719400
+len of train_loader = 8
+Average loss:      0.00545300
+Average test loss:      0.00679900
+len of train_loader = 8
+Average loss:      0.00539876
+Average test loss:      0.00903955
+len of train_loader = 8
+Average loss:      0.00517519
+Average test loss:      0.00783800
+len of train_loader = 8
+Average loss:      0.00494526
+Average test loss:      0.00825274
+len of train_loader = 8
+Average loss:      0.00470888
+Average test loss:      0.00771066
+len of train_loader = 8
+Average loss:      0.00460095
+Average test loss:      0.00754660
+len of train_loader = 8
+Average loss:      0.00461455
+Average test loss:      0.00683845
+len of train_loader = 8
+Average loss:      0.00462186
+Average test loss:      0.00675409
+len of train_loader = 8
+Average loss:      0.00446851
+Average test loss:      0.00670705
+len of train_loader = 8
+Average loss:      0.00450996
+Average test loss:      0.00663549
+len of train_loader = 8
+Average loss:      0.00442672
+Average test loss:      0.00634057
+len of train_loader = 8
+Average loss:      0.00451213
+Average test loss:      0.00708762
+len of train_loader = 8
+Average loss:      0.00434791
+Average test loss:      0.00687084
+len of train_loader = 8
+Average loss:      0.00429227
+Average test loss:      0.00672709
+len of train_loader = 8
+Average loss:      0.00436313
+Average test loss:      0.00712253
+len of train_loader = 8
+Average loss:      0.00455751
+Average test loss:      0.00687204
+len of train_loader = 8
+Average loss:      0.00844151
+Average test loss:      0.01176471
+len of train_loader = 8
+Average loss:      0.01108462
+Average test loss:      0.01039394
+len of train_loader = 8
+Average loss:      0.00886058
+Average test loss:      0.01038981
+len of train_loader = 8
+Average loss:      0.00961840
+Average test loss:      0.01398854
+len of train_loader = 8
+Average loss:      0.01205924
+Average test loss:      0.01340362
+len of train_loader = 8
+Average loss:      0.01140842
+Average test loss:      0.01154952
+len of train_loader = 8
+Average loss:      0.00954835
+Average test loss:      0.01018372
+len of train_loader = 8
+Average loss:      0.00876084
+Average test loss:      0.01020712
+len of train_loader = 8
+Average loss:      0.00820226
+Average test loss:      0.00958505
+len of train_loader = 8
+Average loss:      0.00778883
+Average test loss:      0.00938377
+len of train_loader = 8
+Average loss:      0.00752205
+Average test loss:      0.00891550
+len of train_loader = 8
+Average loss:      0.00725765
+Average test loss:      0.00935961
+len of train_loader = 8
+Average loss:      0.00698636
+Average test loss:      0.00836657
+len of train_loader = 8
+Average loss:      0.00684951
+Average test loss:      0.00850265
+len of train_loader = 8
+Average loss:      0.00666321
+Average test loss:      0.00887908
+len of train_loader = 8
+Average loss:      0.00643650
+Average test loss:      0.00793479
+len of train_loader = 8
+Average loss:      0.00630882
+Average test loss:      0.00837408
+len of train_loader = 8
+Average loss:      0.00612094
+Average test loss:      0.00858521
+len of train_loader = 8
+Average loss:      0.00605961
+Average test loss:      0.00774068
+len of train_loader = 8
+Average loss:      0.00585025
+Average test loss:      0.00814277
+len of train_loader = 8
+Average loss:      0.00582997
+Average test loss:      0.00808371
+len of train_loader = 8
+Average loss:      0.00579985
+Average test loss:      0.00749836
+len of train_loader = 8
+Average loss:      0.00586896
+Average test loss:      0.00889918
+len of train_loader = 8
+Average loss:      0.00583583
+Average test loss:      0.00769021
+len of train_loader = 8
+Average loss:      0.00567695
+Average test loss:      0.00775146
+len of train_loader = 8
+Average loss:      0.00566538
+Average test loss:      0.00742329
+len of train_loader = 8
+Average loss:      0.00566358
+Average test loss:      0.00759458
+len of train_loader = 8
+Average loss:      0.00557414
+Average test loss:      0.00763240
+len of train_loader = 8
+Average loss:      0.00548201
+Average test loss:      0.00780478
+len of train_loader = 8
+Average loss:      0.00537185
+Average test loss:      0.00776668
+len of train_loader = 8
+Average loss:      0.00529426
+Average test loss:      0.00669485
+len of train_loader = 8
+Average loss:      0.00526783
+Average test loss:      0.00740967
+len of train_loader = 8
+Average loss:      0.00523897
+Average test loss:      0.00720821
+len of train_loader = 8
+Average loss:      0.00525373
+Average test loss:      0.00670870
+len of train_loader = 8
+Average loss:      0.00515336
+Average test loss:      0.00676579
+len of train_loader = 8
+Average loss:      0.00530768
+Average test loss:      0.00702689
+len of train_loader = 8
+Average loss:      0.00548653
+Average test loss:      0.00672533
+len of train_loader = 8
+Average loss:      0.00549564
+Average test loss:      0.00812111
+len of train_loader = 8
+Average loss:      0.00504948
+Average test loss:      0.00748330
+len of train_loader = 8
+Average loss:      0.00520099
+Average test loss:      0.00815759
+len of train_loader = 8
+Average loss:      0.00518060
+Average test loss:      0.00781845
+len of train_loader = 8
+Average loss:      0.00490845
+Average test loss:      0.00776251
+len of train_loader = 8
+Average loss:      0.00490968
+Average test loss:      0.00648793
+len of train_loader = 8
+Average loss:      0.00478809
+Average test loss:      0.00692454
+len of train_loader = 8
+Average loss:      0.00470454
+Average test loss:      0.00696378
+len of train_loader = 8
+Average loss:      0.00483155
+Average test loss:      0.00683994
+len of train_loader = 8
+Average loss:      0.00485630
+Average test loss:      0.00710154
+len of train_loader = 8
+Average loss:      0.00470014
+Average test loss:      0.00617834
+len of train_loader = 8
+Average loss:      0.00453732
+Average test loss:      0.00676863
+len of train_loader = 8
+Average loss:      0.00454101
+Average test loss:      0.00760874
+len of train_loader = 8
+Average loss:      0.00455051
+Average test loss:      0.00675322
+len of train_loader = 8
+Average loss:      0.00450138
+Average test loss:      0.00704989
+len of train_loader = 8
+Average loss:      0.00568877
+Average test loss:      0.01140107
+len of train_loader = 8
+Average loss:      0.00921641
+Average test loss:      0.00915806
+len of train_loader = 8
+Average loss:      0.00603230
+Average test loss:      0.00829037
+len of train_loader = 8
+Average loss:      0.00613105
+Average test loss:      0.00892991
+len of train_loader = 8
+Average loss:      0.00577773
+Average test loss:      0.00871648
+len of train_loader = 8
+Average loss:      0.00548649
+Average test loss:      0.00921724
+len of train_loader = 8
+Average loss:      0.00531277
+Average test loss:      0.00761208
+len of train_loader = 8
+Average loss:      0.00507211
+Average test loss:      0.00762239
+len of train_loader = 8
+Average loss:      0.00510529
+Average test loss:      0.00835011
+len of train_loader = 8
+Average loss:      0.00500253
+Average test loss:      0.00717534
+len of train_loader = 8
+Average loss:      0.00502199
+Average test loss:      0.00817183
+len of train_loader = 8
+Average loss:      0.00514411
+Average test loss:      0.00734855
+len of train_loader = 8
+Average loss:      0.00497028
+Average test loss:      0.00710771
+len of train_loader = 8
+Average loss:      0.00511107
+Average test loss:      0.00725960
+len of train_loader = 8
+Average loss:      0.00486117
+Average test loss:      0.00708086
+len of train_loader = 8
+Average loss:      0.00481230
+Average test loss:      0.00708309
+len of train_loader = 8
+Average loss:      0.00467369
+Average test loss:      0.00842803
+len of train_loader = 8
+Average loss:      0.00472470
+Average test loss:      0.00678845
+len of train_loader = 8
+Average loss:      0.00487393
+Average test loss:      0.00753637
+len of train_loader = 8
+Average loss:      0.00488729
+Average test loss:      0.00820912
+len of train_loader = 8
+Average loss:      0.00488561
+Average test loss:      0.00597959
+len of train_loader = 8
+Average loss:      0.00481823
+Average test loss:      0.00642574
+len of train_loader = 8
+Average loss:      0.00466609
+Average test loss:      0.00643598
+len of train_loader = 8
+Average loss:      0.00454895
+Average test loss:      0.00638923
+len of train_loader = 8
+Average loss:      0.00455573
+Average test loss:      0.00674324
+len of train_loader = 8
+Average loss:      0.00463611
+Average test loss:      0.00721027
+len of train_loader = 8
+Average loss:      0.00462376
+Average test loss:      0.00639871
+len of train_loader = 8
+Average loss:      0.00459638
+Average test loss:      0.00741754
+len of train_loader = 8
+Average loss:      0.00460475
+Average test loss:      0.00684185
+len of train_loader = 8
+Average loss:      0.00454074
+Average test loss:      0.00711619
+len of train_loader = 8
+Average loss:      0.00458186
+Average test loss:      0.00626775
+len of train_loader = 8
+Average loss:      0.00446214
+Average test loss:      0.00589166
+len of train_loader = 8
+Average loss:      0.00453749
+Average test loss:      0.00626453
+len of train_loader = 8
+Average loss:      0.00448097
+Average test loss:      0.00661523
+len of train_loader = 8
+Average loss:      0.00458667
+Average test loss:      0.00621621
+len of train_loader = 8
+Average loss:      0.00439941
+Average test loss:      0.00628640
+len of train_loader = 8
+Average loss:      0.00442362
+Average test loss:      0.00683130
+len of train_loader = 8
+Average loss:      0.00432096
+Average test loss:      0.00643645
+len of train_loader = 8
+Average loss:      0.00433682
+Average test loss:      0.00689807
+len of train_loader = 8
+Average loss:      0.00435877
+Average test loss:      0.00580743
+len of train_loader = 8
+Average loss:      0.00445264
+Average test loss:      0.00659002
+len of train_loader = 8
+Average loss:      0.00448611
+Average test loss:      0.00616449
+len of train_loader = 8
+Average loss:      0.00450926
+Average test loss:      0.00690022
+len of train_loader = 8
+Average loss:      0.00434537
+Average test loss:      0.00617210
+len of train_loader = 8
+Average loss:      0.00437219
+Average test loss:      0.00575308
+len of train_loader = 8
+Average loss:      0.00448744
+Average test loss:      0.00719398
+len of train_loader = 8
+Average loss:      0.00431589
+Average test loss:      0.00586482
+len of train_loader = 8
+Average loss:      0.00455483
+Average test loss:      0.00688565
+len of train_loader = 8
+Average loss:      0.00447270
+Average test loss:      0.00687188
+len of train_loader = 8
+Average loss:      0.00456199
+Average test loss:      0.00731309
+len of train_loader = 8
+Average loss:      0.00435103
+Average test loss:      0.00633980
+len of train_loader = 8
+Average loss:      0.00429073
+Average test loss:      0.00660358
+len of train_loader = 8
+Average loss:      0.00444808
+Average test loss:      0.00566799
+len of train_loader = 8
+Average loss:      0.00423727
+Average test loss:      0.00614041
+len of train_loader = 8
+Average loss:      0.00418600
+Average test loss:      0.00669034
+len of train_loader = 8
+Average loss:      0.00415214
+Average test loss:      0.00577297
+len of train_loader = 8
+Average loss:      0.00434191
+Average test loss:      0.00693420
+len of train_loader = 8
+Average loss:      0.00422497
+Average test loss:      0.00660609
+len of train_loader = 8
+Average loss:      0.00417197
+Average test loss:      0.00576066
+len of train_loader = 8
+Average loss:      0.00412632
+Average test loss:      0.00684368
+len of train_loader = 8
+Average loss:      0.00421295
+Average test loss:      0.00608628
+len of train_loader = 8
+Average loss:      0.00426137
+Average test loss:      0.00612727
+len of train_loader = 8
+Average loss:      0.00440780
+Average test loss:      0.00614207
+len of train_loader = 8
+Average loss:      0.00421618
+Average test loss:      0.00577295
+len of train_loader = 8
+Average loss:      0.00416487
+Average test loss:      0.00677634
+len of train_loader = 8
+Average loss:      0.00413080
+Average test loss:      0.00607534
+len of train_loader = 8
+Average loss:      0.00421987
+Average test loss:      0.00607153
+len of train_loader = 8
+Average loss:      0.00416734
+Average test loss:      0.00621081
+len of train_loader = 8
+Average loss:      0.00416571
+Average test loss:      0.00573650
+len of train_loader = 8
+Average loss:      0.00427768
+Average test loss:      0.00582775
+len of train_loader = 8
+Average loss:      0.00448893
+Average test loss:      0.00700067
+len of train_loader = 8
+Average loss:      0.00429475
+Average test loss:      0.00593462
+len of train_loader = 8
+Average loss:      0.00430369
+Average test loss:      0.00668359
+len of train_loader = 8
+Average loss:      0.00446533
+Average test loss:      0.00629982
+len of train_loader = 8
+Average loss:      0.00452503
+Average test loss:      0.00697052
+len of train_loader = 8
+Average loss:      0.00444921
+Average test loss:      0.00629786
+len of train_loader = 8
+Average loss:      0.00442184
+Average test loss:      0.00685839
+len of train_loader = 8
+Average loss:      0.00431574
+Average test loss:      0.00639788
+len of train_loader = 8
+Average loss:      0.00483587
+Average test loss:      0.00701959
+len of train_loader = 8
+Average loss:      0.00465607
+Average test loss:      0.00638659
+len of train_loader = 8
+Average loss:      0.00461722
+Average test loss:      0.00800060
+len of train_loader = 8
+Average loss:      0.00469228
+Average test loss:      0.00765001
+len of train_loader = 8
+Average loss:      0.00476022
+Average test loss:      0.00658471
+len of train_loader = 8
+Average loss:      0.00472503
+Average test loss:      0.00587635
+len of train_loader = 8
+Average loss:      0.00443330
+Average test loss:      0.00625216
+len of train_loader = 8
+Average loss:      0.00428159
+Average test loss:      0.00626785
+len of train_loader = 8
+Average loss:      0.00440586
+Average test loss:      0.00685759
+len of train_loader = 8
+Average loss:      0.00452092
+Average test loss:      0.00694280
+len of train_loader = 8
+Average loss:      0.00471860
+Average test loss:      0.00637803
+len of train_loader = 8
+Average loss:      0.00455874
+Average test loss:      0.00619271
+len of train_loader = 8
+Average loss:      0.00421819
+Average test loss:      0.00606527
+len of train_loader = 8
+Average loss:      0.00410499
+Average test loss:      0.00641551
+len of train_loader = 8
+Average loss:      0.00399676
+Average test loss:      0.00673725
+len of train_loader = 8
+Average loss:      0.00397048
+Average test loss:      0.00531699
+len of train_loader = 8
+Average loss:      0.00397942
+Average test loss:      0.00539461
+len of train_loader = 8
+Average loss:      0.00399268
+Average test loss:      0.00635829
+len of train_loader = 8
+Average loss:      0.00390908
+Average test loss:      0.00614565
+len of train_loader = 8
+Average loss:      0.00404269
+Average test loss:      0.00603864
+len of train_loader = 8
+Average loss:      0.00440526
+Average test loss:      0.00547862
+len of train_loader = 8
+Average loss:      0.00422679
+Average test loss:      0.00752369
+len of train_loader = 8
+Average loss:      0.00415103
+Average test loss:      0.00629036
+len of train_loader = 8
+Average loss:      0.00388331
+Average test loss:      0.00578679
+len of train_loader = 8
+Average loss:      0.00427283
+Average test loss:      0.00654990
+len of train_loader = 8
+Average loss:      0.00432970
+Average test loss:      0.00643454
+len of train_loader = 8
+Average loss:      0.00412502
+Average test loss:      0.00670800
+len of train_loader = 8
+Average loss:      0.00402200
+Average test loss:      0.00549544
+len of train_loader = 8
+Average loss:      0.00398313
+Average test loss:      0.00584937
+len of train_loader = 8
+Average loss:      0.00392362
+Average test loss:      0.00639842
+len of train_loader = 8
+Average loss:      0.00409260
+Average test loss:      0.00659025
+len of train_loader = 8
+Average loss:      0.00438492
+Average test loss:      0.00573081
+Average = 0.0046194583942087775
+[[2.86835551e-01 1.30024999e-01 5.01209140e-01 1.98954088e-03]
+ [2.20048323e-01 9.35550869e-01 4.00316250e-03 2.84448208e-04]
+ [1.43196732e-01 2.46475860e-01 1.98956713e-01 6.09147782e-03]
+ [2.25778431e-01 6.56047583e-01 3.27512085e-01 1.25467777e-02]
+ [6.15024388e-01 8.90257955e-01 6.02556765e-01 1.14930549e-03]
+ [6.94532812e-01 3.65503311e-01 1.59738466e-01 4.91452590e-03]
+ [3.20584059e-01 9.64282632e-01 6.21811390e-01 1.56143549e-04]
+ [2.77511120e-01 4.50915277e-01 8.35513055e-01 2.25077019e-04]
+ [6.68443561e-01 5.60652852e-01 8.85162890e-01 2.45298799e-02]
+ [6.72439575e-01 6.42729759e-01 1.89768136e-01 2.36486737e-02]
+ [1.06388681e-01 9.65142131e-01 5.98858356e-01 2.15510628e-03]
+ [4.15683419e-01 5.89020848e-01 6.18119612e-02 8.06359574e-03]
+ [8.22127283e-01 2.16645539e-01 8.04545999e-01 2.66875569e-02]
+ [5.34378469e-01 2.76572019e-01 3.02099474e-02 1.78848580e-03]
+ [8.15833330e-01 1.76460147e-01 5.18051162e-02 5.79322281e-04]
+ [7.55877733e-01 3.50043237e-01 3.89333993e-01 8.06391938e-04]
+ [2.47067586e-01 8.59178483e-01 2.97329515e-01 3.97570111e-04]
+ [2.10192576e-01 3.09249729e-01 2.03149572e-01 2.14424171e-03]
+ [3.17655236e-01 8.29362199e-02 1.58530027e-01 2.44835042e-03]
+ [4.17052895e-01 8.79466832e-01 5.72907478e-02 9.57757141e-03]
+ [2.12674707e-01 9.08345699e-01 8.90014648e-01 1.47230516e-03]
+ [6.79450810e-01 2.40473554e-01 4.19810563e-01 3.46857030e-03]
+ [2.11220995e-01 1.28588513e-01 3.79998386e-01 6.32076175e-04]
+ [5.75821579e-01 3.59932661e-01 6.10824525e-01 1.23357202e-03]
+ [2.96254724e-01 3.45850527e-01 7.90673614e-01 1.58729512e-04]
+ [8.78314734e-01 3.22034091e-01 5.71515799e-01 8.56385159e-04]
+ [2.78162271e-01 5.33346422e-02 7.37857163e-01 1.23288517e-03]
+ [1.71003491e-01 4.25712526e-01 4.87045497e-01 2.05436620e-04]
+ [1.84471577e-01 9.45553482e-02 3.48013014e-01 3.93397221e-03]
+ [9.52285886e-01 6.15135610e-01 3.81410241e-01 1.05466868e-03]
+ [3.89108211e-02 6.00273311e-01 9.22576413e-02 2.26314922e-04]
+ [5.42544067e-01 7.51950502e-01 4.23585355e-01 1.42476137e-03]
+ [2.99411505e-01 4.73842323e-02 2.47778744e-02 2.89856020e-04]
+ [4.30026561e-01 8.83345246e-01 2.44062781e-01 3.67905479e-03]
+ [5.74055493e-01 6.84305847e-01 6.08298667e-02 5.94363362e-03]
+ [1.53100371e-01 3.31276804e-01 6.70093179e-01 1.82892848e-03]
+ [4.39035118e-01 7.34195054e-01 8.67597878e-01 1.80307291e-02]
+ [7.58372247e-01 9.92247224e-01 7.54361093e-01 1.84767395e-02]
+ [8.52179170e-01 8.32366347e-01 7.30265737e-01 3.16156511e-04]
+ [8.01801801e-01 9.34683204e-01 4.75207388e-01 1.58128946e-03]
+ [6.38287008e-01 5.14939725e-01 8.51036966e-01 2.61642337e-02]
+ [4.31359589e-01 8.19726765e-01 7.99354553e-01 1.08738874e-04]
+ [9.61886108e-01 2.48920694e-01 7.09619522e-01 1.74049695e-03]
+ [7.56919503e-01 9.36278522e-01 9.06902432e-01 2.57282872e-02]
+ [5.73525846e-01 5.79153180e-01 1.67291224e-01 1.11778546e-03]
+ [9.74962711e-01 2.55017459e-01 7.24736214e-01 1.18156774e-02]
+ [7.95795023e-01 4.41215515e-01 2.11193725e-01 1.40124664e-03]
+ [1.88960388e-01 8.56495976e-01 5.10756493e-01 3.35786049e-03]
+ [9.01369825e-02 7.17019498e-01 2.50171065e-01 4.82939155e-04]
+ [8.76394749e-01 3.09571773e-01 2.00270832e-01 8.31626647e-04]
+ [8.48584399e-02 5.11531115e-01 4.50737596e-01 1.76072877e-04]
+ [7.51312137e-01 4.64602590e-01 3.43815982e-01 5.51855715e-04]
+ [2.61654913e-01 2.78146744e-01 9.27847922e-01 1.57344677e-02]
+ [1.65078595e-01 9.88176405e-01 3.26919466e-01 1.49738276e-03]
+ [8.83902386e-02 2.48690382e-01 5.84143810e-02 2.99798022e-03]
+ [7.90029764e-01 5.12552917e-01 3.36986631e-01 1.06681837e-03]
+ [6.62049592e-01 6.30646527e-01 9.39872086e-01 1.10767120e-02]
+ [9.61260498e-01 6.80683792e-01 8.17815900e-01 1.18174928e-03]
+ [7.92425096e-01 4.91303533e-01 7.04458296e-01 1.08560140e-03]
+ [7.82590061e-02 7.58021057e-01 9.61833000e-01 9.65903420e-03]
+ [8.49747509e-02 8.36115777e-01 9.32980001e-01 1.05611631e-03]
+ [2.26188883e-01 5.24811208e-01 9.27858233e-01 1.16507085e-02]
+ [9.60225999e-01 1.27882391e-01 3.49004239e-01 2.27027759e-03]
+ [6.98144615e-01 2.21558496e-01 3.24770629e-01 9.04621789e-04]
+ [2.32910607e-02 1.53521687e-01 5.62329471e-01 8.24705872e-04]
+ [6.53090060e-01 6.48911834e-01 7.78360486e-01 5.12615021e-04]
+ [4.15281415e-01 2.73490727e-01 1.55806998e-02 1.05758337e-02]
+ [2.06629828e-01 3.12387824e-01 1.78206861e-01 2.15485765e-04]
+ [2.01444719e-02 1.57447606e-01 6.66099548e-01 5.23135765e-03]
+ [6.29585445e-01 9.35683668e-01 7.98168302e-01 1.92900933e-03]
+ [5.67756116e-01 1.37556344e-01 5.64071834e-01 7.04387494e-04]
+ [6.15950599e-02 4.30884898e-01 3.90258640e-01 1.38217770e-03]
+ [4.27813798e-01 2.79825926e-01 6.85830474e-01 2.80889659e-03]
+ [8.40944469e-01 7.68517017e-01 6.27752125e-01 1.39093248e-03]
+ [5.38344800e-01 3.10841799e-02 7.22934008e-01 3.73317744e-03]
+ [5.44982910e-01 2.70741045e-01 3.27842027e-01 3.18209198e-03]
+ [9.35606778e-01 6.24362230e-01 4.75912422e-01 1.68137893e-03]
+ [6.20921731e-01 4.13742334e-01 4.70182270e-01 2.10662722e-03]
+ [2.90309250e-01 4.39853311e-01 6.85592234e-01 9.58482735e-04]
+ [3.99419256e-02 7.95027435e-01 2.82979548e-01 1.91475470e-02]
+ [6.82559788e-01 6.42725289e-01 6.52628064e-01 2.39297431e-02]
+ [6.08128905e-01 9.59101856e-01 5.08344173e-01 3.01599648e-04]
+ [7.32319117e-01 7.05449343e-01 2.36267582e-01 2.29237396e-02]
+ [2.83305854e-01 4.24017102e-01 2.77697921e-01 5.37436875e-03]
+ [3.66743088e-01 3.90960604e-01 6.03864551e-01 5.29203704e-03]
+ [2.19890043e-01 8.04291844e-01 4.37536359e-01 1.66893413e-03]
+ [7.06244111e-01 8.14424828e-02 4.69965398e-01 4.38889349e-03]
+ [2.82195322e-02 6.75909996e-01 3.43710065e-01 2.54438521e-04]
+ [9.49252844e-01 3.24124217e-01 5.63805878e-01 1.30645186e-03]
+ [2.57387578e-01 6.20112658e-01 4.67042357e-01 1.88042410e-03]
+ [3.70628268e-01 2.03689352e-01 1.11521341e-01 7.10810011e-04]
+ [1.19879134e-01 9.99040008e-01 4.12310719e-01 2.90472782e-03]
+ [1.92970783e-03 9.52928782e-01 1.99799240e-02 8.33907339e-04]
+ [4.18586135e-01 7.17477560e-01 9.14599240e-01 3.98218539e-03]
+ [7.12886274e-01 4.63625759e-01 9.74442065e-01 5.20819146e-03]
+ [3.93193848e-02 9.86892223e-01 8.49391580e-01 4.44182940e-02]
+ [9.28930044e-01 2.54772425e-01 1.42458066e-01 9.44106281e-03]
+ [6.63315296e-01 5.15859425e-01 5.23167968e-01 1.47047546e-03]
+ [9.24619198e-01 6.20080888e-01 3.11063826e-01 1.70627004e-03]
+ [4.00066555e-01 1.33495837e-01 1.92314044e-01 2.13717832e-03]
+ [1.43350065e-01 8.10291350e-01 7.04873443e-01 4.73938213e-04]
+ [5.30345023e-01 3.74367833e-01 6.68494284e-01 5.15529711e-04]
+ [8.12905371e-01 8.81233215e-01 5.47016203e-01 5.32096764e-03]
+ [8.19885135e-01 5.11305928e-01 4.74530101e-01 9.02550947e-03]
+ [8.65431845e-01 3.86373937e-01 3.95912677e-01 2.23051128e-03]
+ [3.04911345e-01 5.18701732e-01 5.44850051e-01 7.73999782e-04]
+ [6.60461128e-01 4.30502295e-01 2.17837289e-01 8.68558418e-04]
+ [8.66842091e-01 3.46000880e-01 9.22943413e-01 4.75169392e-03]
+ [2.07353339e-01 5.60057461e-01 5.36615074e-01 1.08499348e-03]
+ [8.28647852e-01 1.38851389e-01 9.09937143e-01 3.93260783e-03]
+ [5.31428158e-01 5.86109400e-01 5.10166287e-01 1.03646601e-02]
+ [3.60249057e-02 4.97090667e-01 2.63549656e-01 1.20186049e-03]
+ [3.42688173e-01 6.49101615e-01 4.97697115e-01 9.20275750e-04]
+ [9.32182148e-02 7.30412751e-02 1.85657695e-01 5.07705670e-04]
+ [1.90885141e-01 6.08300745e-01 1.77814469e-01 5.66993607e-03]
+ [8.81719410e-01 2.09760666e-01 9.11314487e-02 1.59925304e-03]
+ [8.75746012e-01 2.95327574e-01 4.25422639e-01 1.01186084e-02]
+ [9.59026396e-01 9.44369197e-01 7.14916885e-01 5.38303393e-05]
+ [6.89389482e-02 5.93340099e-01 9.89077926e-01 7.47325190e-04]
+ [9.46916223e-01 1.06002495e-01 3.95967305e-01 3.67878447e-03]
+ [3.15536737e-01 1.29728109e-01 6.94798291e-01 4.96647321e-04]
+ [2.73848355e-01 3.44865799e-01 9.03588757e-02 1.07266626e-03]
+ [4.97967571e-01 1.58167869e-01 4.32090431e-01 2.36377288e-02]
+ [1.43342227e-01 9.53849912e-01 1.44982532e-01 1.16700341e-03]
+ [5.21887183e-01 1.96979821e-01 7.63618052e-02 7.38118077e-04]
+ [2.02308625e-01 5.47741055e-02 1.39397383e-01 6.85107603e-04]
+ [4.93484169e-01 6.51815534e-01 8.73398185e-02 9.02333704e-04]
+ [4.41018611e-01 5.81247032e-01 2.34225675e-01 4.95463749e-03]
+ [3.72078419e-01 7.18348697e-02 2.20131084e-01 3.17592360e-03]
+ [4.66752917e-01 9.90442157e-01 9.96265054e-01 8.32319912e-03]
+ [9.79621708e-01 4.23086375e-01 8.06803778e-02 7.65067351e-04]
+ [3.23573440e-01 2.37714380e-01 1.41265746e-02 9.09649010e-04]
+ [9.52336118e-02 4.53191936e-01 3.39662462e-01 7.70837581e-03]
+ [1.80353716e-01 7.16099977e-01 3.57115597e-01 5.02826413e-03]
+ [8.51867855e-01 2.40977153e-01 5.38393497e-01 3.50989238e-03]
+ [1.84139222e-01 4.95300621e-01 1.52466506e-01 1.49804365e-03]
+ [1.61578625e-01 6.12223387e-01 2.63786048e-01 6.92670094e-03]
+ [1.72367230e-01 9.29768264e-01 4.30032499e-02 4.32449626e-04]
+ [5.65148115e-01 5.48263848e-01 2.50608861e-01 4.18492919e-03]
+ [4.52771753e-01 8.77377838e-02 7.21270144e-01 2.62964494e-03]
+ [2.21697152e-01 1.93385363e-01 3.14878464e-01 5.77013800e-03]
+ [9.02369916e-01 7.96466649e-01 9.46892262e-01 2.55117822e-03]
+ [6.51962340e-01 6.62921488e-01 4.80031013e-01 9.06583562e-04]
+ [9.05186296e-01 5.10877132e-01 3.55060071e-01 3.17498781e-02]
+ [6.40375018e-01 5.46139479e-01 1.24019817e-01 1.85803359e-03]
+ [3.92725408e-01 3.13325405e-01 8.46833766e-01 4.34574700e-04]
+ [3.78842562e-01 8.21555257e-01 4.42389607e-01 1.03555527e-03]
+ [7.53500581e-01 1.35281935e-01 9.24650192e-01 1.15249688e-02]
+ [4.80559886e-01 2.59798259e-01 2.41489604e-01 9.64077562e-03]
+ [2.65077293e-01 3.66724163e-01 7.17519522e-01 1.23554573e-03]
+ [9.49603021e-01 6.69037402e-01 5.47166288e-01 5.52018930e-04]
+ [4.48597819e-01 8.28194439e-01 8.49657178e-01 5.51617853e-02]
+ [2.93037683e-01 9.53420222e-01 3.95115376e-01 7.93140288e-03]
+ [8.00078094e-01 9.66819882e-01 7.03658104e-01 4.23716707e-03]
+ [1.61550730e-01 5.86136937e-01 1.18777126e-01 5.31302718e-03]
+ [7.89142013e-01 2.81315178e-01 6.95214808e-01 2.65100296e-03]
+ [9.10089672e-01 1.81009844e-01 3.92857850e-01 4.07932443e-04]
+ [6.47118807e-01 4.19658601e-01 1.74818948e-01 5.72548201e-03]
+ [2.90716141e-02 4.06598151e-01 6.49209023e-01 1.07446499e-03]
+ [5.73984206e-01 1.56241238e-01 4.50693458e-01 8.82151537e-04]
+ [3.69471043e-01 2.74202406e-01 7.29271233e-01 2.26521282e-03]
+ [3.09652030e-01 5.40141940e-01 9.23223555e-01 3.98029201e-03]
+ [5.39276004e-01 6.17022932e-01 7.32459873e-02 1.20027456e-03]
+ [1.78134143e-01 1.00951202e-01 7.64812946e-01 1.20803143e-03]
+ [8.35921109e-01 1.86455294e-01 2.19271749e-01 3.21428262e-04]
+ [3.23207289e-01 5.91077626e-01 6.21796191e-01 1.38230433e-04]
+ [6.86753988e-01 9.05192733e-01 2.95040131e-01 3.83263757e-03]
+ [6.58758998e-01 5.59722841e-01 3.05837244e-01 1.58374416e-04]
+ [9.07415211e-01 9.54834148e-02 7.12001026e-01 2.88659066e-04]
+ [7.27873743e-01 9.15326536e-01 5.18580616e-01 8.41062923e-04]
+ [3.21622342e-01 8.27740669e-01 7.70810306e-01 3.72344191e-04]
+ [5.00315607e-01 7.67857373e-01 2.67875612e-01 8.97538941e-03]
+ [5.89506328e-01 8.65183473e-01 3.17984492e-01 1.62279606e-02]
+ [4.83549982e-01 9.51044858e-01 7.98211813e-01 1.66352419e-03]
+ [8.87039006e-01 3.85247052e-01 9.96505260e-01 4.62056603e-03]
+ [1.52565598e-01 5.18770576e-01 4.79273379e-01 1.15853464e-02]
+ [7.98432171e-01 9.08617795e-01 7.31139362e-01 1.84497144e-03]
+ [6.26816213e-01 4.27429199e-01 5.10325909e-01 1.53931568e-03]
+ [5.09300292e-01 2.03684736e-02 5.03045797e-01 4.53959079e-03]
+ [8.55970800e-01 7.09273994e-01 7.95708597e-01 2.90426519e-03]
+ [3.90484989e-01 5.28973222e-01 3.34835686e-02 1.87083881e-03]
+ [3.82997930e-01 4.74416047e-01 2.55208910e-01 1.04854035e-03]
+ [3.12409792e-02 6.90408111e-01 4.35087740e-01 1.13169069e-03]
+ [4.15678203e-01 2.49986753e-01 5.37830412e-01 5.20966889e-04]
+ [4.38026786e-01 4.73984480e-01 5.80871344e-01 1.75690569e-03]
+ [6.32464746e-03 9.07695889e-01 7.10873976e-02 1.66645541e-03]
+ [4.50924754e-01 2.07372874e-01 5.23782372e-01 1.14776753e-03]
+ [2.80230105e-01 8.60006511e-01 3.96359831e-01 8.23336304e-05]
+ [6.38755560e-01 2.48879731e-01 1.94061510e-02 1.58392463e-03]
+ [4.04154539e-01 5.36486506e-01 4.59547162e-01 2.80688331e-03]
+ [9.62014377e-01 7.06839144e-01 9.95669782e-01 8.24026283e-05]
+ [2.95060098e-01 7.89053261e-01 5.55558443e-01 1.43227994e-03]
+ [6.11760378e-01 9.85853195e-01 6.53987229e-01 1.34387566e-03]
+ [8.98816884e-01 7.25750208e-01 1.27386123e-01 6.68650726e-03]
+ [6.99423730e-01 4.84315574e-01 9.18797970e-01 2.23520864e-03]
+ [8.06834459e-01 1.04134686e-01 1.33915648e-01 8.09662044e-04]
+ [6.96110055e-02 4.93244886e-01 8.07717592e-02 2.51667644e-03]
+ [7.23678350e-01 5.52358568e-01 8.35884988e-01 4.25834209e-03]
+ [2.79795796e-01 5.19140780e-01 1.17479689e-01 1.88438408e-03]
+ [8.84609997e-01 1.75004959e-01 1.02362253e-01 8.81118700e-04]]
+(200, 4)
